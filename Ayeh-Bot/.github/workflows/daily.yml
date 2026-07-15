@@ -2,28 +2,42 @@ name: Daily Ayeh Bot
 
 on:
   schedule:
-    # هر روز ساعت 06:30 UTC
-    # (اگر ایران UTC+3:30 باشد = ساعت 10:00 ایران)
-    - cron: '30 6 * * *'
+    # هر روز ساعت 08:00 ایران
+    # (04:30 UTC)
+    - cron: "30 4 * * *"
 
   workflow_dispatch:
 
 jobs:
-  run:
+  post:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - run: pip install -r requirements.txt
 
       - name: Run Bot
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python main.py
+        run: python main.py --once
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add state.json
+
+          git diff --cached --quiet || git commit -m "Update state"
+
+          git push

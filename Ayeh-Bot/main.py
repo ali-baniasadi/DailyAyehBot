@@ -167,13 +167,13 @@ def run_scheduler():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--once", action="store_true", help="ارسال فوری یک پست برای تست، بدون زمان‌بندی"
-    )
+    parser.add_argument("--once", action="store_true")
     args = parser.parse_args()
 
     if not BOT_TOKEN or not CHANNEL_ID:
-        raise SystemExit("TELEGRAM_BOT_TOKEN و TELEGRAM_CHANNEL_ID باید در .env تنظیم شوند.")
+        raise SystemExit(
+            "TELEGRAM_BOT_TOKEN و TELEGRAM_CHANNEL_ID باید تنظیم شوند."
+        )
 
     if args.once:
         post_daily_verse()
