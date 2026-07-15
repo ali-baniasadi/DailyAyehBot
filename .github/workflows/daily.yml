@@ -2,8 +2,6 @@ name: Daily Ayeh Bot
 
 on:
   schedule:
-    # هر روز ساعت 08:00 ایران
-    # (04:30 UTC)
     - cron: "30 4 * * *"
 
   workflow_dispatch:
@@ -17,6 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -28,7 +28,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python main.py --once
 
       - name: Commit updated state
@@ -38,6 +38,10 @@ jobs:
 
           git add state.json
 
-          git diff --cached --quiet || git commit -m "Update state"
+          git diff --cached --quiet && exit 0
 
-          git push
+          git commit -m "Update state"
+
+          git pull --rebase origin main
+
+          git push origin main
