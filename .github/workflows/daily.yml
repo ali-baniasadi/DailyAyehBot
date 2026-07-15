@@ -31,17 +31,4 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python main.py --once
 
-      - name: Commit updated state
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add state.json
-
-          git diff --cached --quiet && exit 0
-
-          git commit -m "Update state"
-
-          git pull --rebase origin main
-
-          git push origin main
+    

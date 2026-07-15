@@ -61,28 +61,15 @@ def load_verses() -> list:
     return verses
 
 
-def load_state() -> dict:
-    if os.path.exists(STATE_FILE):
-        try:
-            with open(STATE_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            pass
+from datetime import date
 
-    return {"last_index": -1}
+def pick_next_verse(verses: list) -> dict:
+    start_date = date(2026, 1, 1)   # تاریخ شروع چرخه
+    today = date.today()
 
+    days = (today - start_date).days
 
-def save_state(state: dict):
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-
-
-def pick_next_verse(verses: list, state: dict):
-    total = len(verses)
-    idx = (state["last_index"] + 1) % total
-    return idx, verses[idx]
-
-
+    return verses[days % len(verses)]
 def build_image_prompt(verse: dict) -> str:
     theme = verse.get("theme") or verse["translation_fa"][:100]
 
@@ -165,9 +152,7 @@ def send_text(text: str):
 
 def post_daily_verse():
     verses = load_verses()
-    state = load_state()
-
-    idx, verse = pick_next_verse(verses, state)
+    verse = pick_next_verse(verses)
 
     caption = build_caption(verse)
 
@@ -194,7 +179,6 @@ def post_daily_verse():
         send_text(caption)
 
     state["last_index"] = idx
-    save_state(state)
 
     log(
         f"ارسال شد: {verse['surah_name_ar']} - آیه {verse['ayah']}"
