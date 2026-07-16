@@ -1,7 +1,3 @@
-import inspect
-
-print(inspect.getsource(post_daily_verse))
-
 """
 ربات پست روزانه آیه قرآن + ترجمه فارسی + تصویر تولیدشده با هوش مصنوعی
 با استفاده از Hugging Face FLUX.1-schnell
