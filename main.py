@@ -89,7 +89,7 @@ def generate_image(prompt: str) -> str:
 
     image = client.text_to_image(
         prompt=prompt,
-        model="black-forest-labs/FLUX.1-schnell",
+        model="black-forest-labs/FLUX.1-dev",
     )
 
     image.save(IMAGE_PATH)
@@ -178,7 +178,6 @@ def post_daily_verse():
 
         send_text(caption)
 
-    state["last_index"] = idx
 
     log(
         f"ارسال شد: {verse['surah_name_ar']} - آیه {verse['ayah']}"
