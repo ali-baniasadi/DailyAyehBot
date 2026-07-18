@@ -70,7 +70,7 @@ TIMEZONE = os.getenv("TIMEZONE", "Asia/Tehran")
 
 VERSES_FILE = "verses.json"
 STATE_FILE = "state.json"
-IMAGE_PATH = "generated_image.png"
+IMAGE_PATH = "generated_image.jpg"
 TELEGRAM_CAPTION_LIMIT = 1024
 
 
@@ -152,17 +152,28 @@ def generate_image(prompt: str) -> str:
             f"Cloudflare HTTP {response.status_code}: {response.text[:500]}"
         )
 
+    content_type = response.headers.get("content-type", "")
+
+    if content_type.startswith("image/"):
+        # برخی مدل‌ها (مثل stable-diffusion-xl-lightning) خود بایت‌های
+        # تصویر را مستقیم برمی‌گردانند، نه JSON.
+        with open(IMAGE_PATH, "wb") as f:
+            f.write(response.content)
+        return IMAGE_PATH
+
     try:
         data = response.json()
     except ValueError:
         raise RuntimeError(
             f"پاسخ Cloudflare قابل‌خواندن به‌صورت JSON نبود "
-            f"(status={response.status_code}): {response.text[:500]!r}"
+            f"(status={response.status_code}, content-type={content_type}): "
+            f"{response.text[:200]!r}"
         )
 
     if not data.get("success", False):
         raise RuntimeError(f"خطای Cloudflare Workers AI: {data.get('errors')}")
 
+    # برخی مدل‌ها (مثل flux-1-schnell) تصویر را به‌صورت base64 داخل JSON می‌دهند
     image_b64 = data["result"]["image"]
     with open(IMAGE_PATH, "wb") as f:
         f.write(base64.b64decode(image_b64))
