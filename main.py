@@ -145,8 +145,20 @@ def generate_image(prompt: str) -> str:
         },
         timeout=120,
     )
-    response.raise_for_status()
-    data = response.json()
+
+    if response.status_code != 200:
+        # پاسخ خام سرور را لاگ می‌کنیم تا علت واقعی خطا مشخص شود
+        raise RuntimeError(
+            f"Cloudflare HTTP {response.status_code}: {response.text[:500]}"
+        )
+
+    try:
+        data = response.json()
+    except ValueError:
+        raise RuntimeError(
+            f"پاسخ Cloudflare قابل‌خواندن به‌صورت JSON نبود "
+            f"(status={response.status_code}): {response.text[:500]!r}"
+        )
 
     if not data.get("success", False):
         raise RuntimeError(f"خطای Cloudflare Workers AI: {data.get('errors')}")
