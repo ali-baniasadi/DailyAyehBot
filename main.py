@@ -12,6 +12,7 @@ import base64
 import hashlib
 import json
 import os
+import random
 import tempfile
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -131,10 +132,11 @@ def select_next_verse(verses: list, state: dict) -> dict:
             "برای ادامه، آیات بیشتری به curated_refs.json اضافه کرده و "
             "fetch_verses.py را دوباره اجرا کنید."
         )
-    # همیشه اولین آیه‌ی استفاده‌نشده به ترتیب فایل انتخاب می‌شود؛ این کار
-    # قطعی (deterministic) و قابل پیش‌بینی/تست است و تضمین می‌کند تمام آیات
-    # پیش از هر تکراری، حتماً یک‌بار پوشش داده شوند.
-    return unused[0]
+    # از میان آیات استفاده‌نشده، یکی به‌صورت تصادفی انتخاب می‌شود (نه لزوماً
+    # اولین مورد در فایل)، تا ترتیب پست‌ها هم غیرقابل‌پیش‌بینی و متنوع باشد.
+    # با این حال، تضمین می‌شود که هیچ آیه‌ای تا وقتی همه‌ی آیات دیگر پست
+    # نشده‌اند، دوباره تکرار نشود.
+    return random.choice(unused)
 
 
 # ---------------------------------------------------------------------------
