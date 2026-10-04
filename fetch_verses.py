@@ -102,12 +102,19 @@ def main():
             fa_data = fetch_ayah(reference, persian_edition)
             time.sleep(0.3)
 
+            arabic_text = arabic_data["text"]
+            # API در آیه‌ی ۱ بیشتر سوره‌ها «بسم الله» را هم به متن می‌چسباند
+            if ref["ayah"] == 1 and ref["surah"] not in (1, 9):
+                words = arabic_text.split(" ")
+                if len(words) > 4 and words[0].startswith("بِسْمِ"):
+                    arabic_text = " ".join(words[4:])
+
             verses.append({
                 "surah": ref["surah"],
                 "ayah": ref["ayah"],
                 "surah_name_ar": arabic_data["surah"]["name"],
                 "surah_name_en": arabic_data["surah"]["englishName"],
-                "arabic": arabic_data["text"],
+                "arabic": arabic_text,
                 "translation_fa": fa_data["text"],
                 "translation_edition": persian_edition,
                 "theme": ref.get("theme", ""),

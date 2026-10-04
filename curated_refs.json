@@ -330,19 +330,6 @@
     ]
   },
   {
-    "surah": 7,
-    "ayah": 199,
-    "theme": "گذشت، خیرخواهی و دوری از نادانی",
-    "topic": "forgiveness_and_wisdom",
-    "image_theme": "a calm wide path stretching through a peaceful open field",
-    "keywords": [
-      "forgiveness",
-      "wisdom",
-      "patience",
-      "calm"
-    ]
-  },
-  {
     "surah": 41,
     "ayah": 46,
     "theme": "مسئولیت انسان در برابر عمل خویش و عدالت الهی",
@@ -720,19 +707,6 @@
     ]
   },
   {
-    "surah": 2,
-    "ayah": 216,
-    "theme": "شاید چیزی را ناخوش داشته باشید که برایتان خیر است",
-    "topic": "perspective_on_hardship",
-    "image_theme": "a storm clearing to reveal a bright hidden path",
-    "keywords": [
-      "perspective",
-      "hardship",
-      "hidden good",
-      "patience"
-    ]
-  },
-  {
     "surah": 3,
     "ayah": 92,
     "theme": "نیکی کامل با انفاق از آنچه دوست دارید",
@@ -781,19 +755,6 @@
       "peace",
       "security",
       "calm",
-      "light"
-    ]
-  },
-  {
-    "surah": 12,
-    "ayah": 18,
-    "theme": "صبری نیکو در برابر سختی‌ها",
-    "topic": "beautiful_patience",
-    "image_theme": "a single steady lantern glowing through a long quiet night",
-    "keywords": [
-      "patience",
-      "steadiness",
-      "endurance",
       "light"
     ]
   },
@@ -847,19 +808,6 @@
       "comfort",
       "warmth",
       "home"
-    ]
-  },
-  {
-    "surah": 27,
-    "ayah": 19,
-    "theme": "دعای شکرگزاری برای نعمت‌ها",
-    "topic": "prayer_of_gratitude",
-    "image_theme": "a small candle flame steady beside an open window at sunrise",
-    "keywords": [
-      "gratitude",
-      "prayer",
-      "light",
-      "calm"
     ]
   },
   {
@@ -1071,19 +1019,6 @@
     ]
   },
   {
-    "surah": 89,
-    "ayah": 28,
-    "theme": "بازگشت آرام و خشنودانه به سوی پروردگار",
-    "topic": "peaceful_return_to_god",
-    "image_theme": "a soft light rising gently from an open field into the sky",
-    "keywords": [
-      "peace",
-      "return",
-      "comfort",
-      "light"
-    ]
-  },
-  {
     "surah": 103,
     "ayah": 3,
     "theme": "ایمان، عمل نیک، سفارش به حق و صبر",
@@ -1146,19 +1081,6 @@
       "courtesy",
       "respect",
       "warmth"
-    ]
-  },
-  {
-    "surah": 5,
-    "ayah": 32,
-    "theme": "نجات یک جان، نجات همه انسان‌هاست",
-    "topic": "sanctity_of_life",
-    "image_theme": "a single light expanding gently to embrace an entire horizon",
-    "keywords": [
-      "compassion",
-      "life",
-      "humanity",
-      "light"
     ]
   },
   {
@@ -1302,6 +1224,4219 @@
       "prayer",
       "hope",
       "light"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 163,
+    "theme": "یگانگی خداوند و رحمت فراگیر او",
+    "topic": "tawhid",
+    "image_theme": "a single bright light at the center of a calm vast horizon",
+    "keywords": [
+      "oneness",
+      "light",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 115,
+    "theme": "هر سو که روی کنید، خدا آنجاست",
+    "topic": "gods_presence",
+    "image_theme": "east and west horizons glowing at sunrise and sunset over an open land",
+    "keywords": [
+      "east",
+      "west",
+      "horizon",
+      "presence"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 117,
+    "theme": "آفرینش با فرمان «باش»",
+    "topic": "creative_command",
+    "image_theme": "a bare desert slowly blooming into life at dawn",
+    "keywords": [
+      "creation",
+      "dawn",
+      "bloom"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 189,
+    "theme": "فرمانروایی آسمان‌ها و زمین از آنِ خداست",
+    "topic": "divine_sovereignty",
+    "image_theme": "vast starry sky above mountains and sea",
+    "keywords": [
+      "sky",
+      "stars",
+      "mountains"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 103,
+    "theme": "دیدگان او را درنمی‌یابد و او همه دیدگان را می‌بیند",
+    "topic": "subtle_awareness",
+    "image_theme": "a single luminous eye-like sun behind soft clouds",
+    "keywords": [
+      "vision",
+      "clouds",
+      "subtle light"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 17,
+    "theme": "گشایش و رفع سختی تنها به دست خداست",
+    "topic": "relief_from_god",
+    "image_theme": "storm clouds parting to reveal warm sunlight",
+    "keywords": [
+      "clearing storm",
+      "relief",
+      "sunbeam"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 162,
+    "theme": "نماز و زندگی و مرگ من برای خداست",
+    "topic": "devotion_of_life",
+    "image_theme": "a lone traveler silhouette walking toward the sunrise on a long path",
+    "keywords": [
+      "devotion",
+      "path",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 180,
+    "theme": "نیکوترین نام‌ها از آنِ خداست",
+    "topic": "beautiful_names",
+    "image_theme": "golden light reflected on still water with gentle ripples",
+    "keywords": [
+      "names",
+      "light",
+      "water"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 107,
+    "theme": "هیچ‌کس جز خدا گره‌گشا نیست",
+    "topic": "sole_helper",
+    "image_theme": "a single lantern glowing in the deep night",
+    "keywords": [
+      "lantern",
+      "night",
+      "hope"
+    ]
+  },
+  {
+    "surah": 11,
+    "ayah": 6,
+    "theme": "روزی هر جنبنده بر عهده‌ی خداست",
+    "topic": "provision",
+    "image_theme": "a small bird feeding at dawn in a quiet meadow",
+    "keywords": [
+      "provision",
+      "bird",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 18,
+    "theme": "نعمت‌های خدا را نمی‌توان شمرد",
+    "topic": "countless_blessings",
+    "image_theme": "countless stars and fireflies over a green valley",
+    "keywords": [
+      "blessings",
+      "stars",
+      "abundance"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 96,
+    "theme": "آنچه نزد شماست تمام می‌شود و آنچه نزد خداست پایدار است",
+    "topic": "lasting_with_god",
+    "image_theme": "autumn leaves falling beside an evergreen tree",
+    "keywords": [
+      "impermanence",
+      "evergreen",
+      "leaves"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 8,
+    "theme": "خدایی که جز او معبودی نیست؛ نیکوترین نام‌ها از آنِ اوست",
+    "topic": "beautiful_names",
+    "image_theme": "soft golden dawn over still mountain lake",
+    "keywords": [
+      "dawn",
+      "lake",
+      "stillness"
+    ]
+  },
+  {
+    "surah": 24,
+    "ayah": 41,
+    "theme": "همه‌ی موجودات او را تسبیح می‌گویند",
+    "topic": "all_creation_praises",
+    "image_theme": "birds in flight over misty mountains at sunrise",
+    "keywords": [
+      "birds",
+      "mist",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 24,
+    "ayah": 42,
+    "theme": "فرمانروایی آسمان‌ها و زمین و بازگشت همه به سوی اوست",
+    "topic": "return_to_god",
+    "image_theme": "a winding river flowing toward the sea at dusk",
+    "keywords": [
+      "river",
+      "return",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 27,
+    "ayah": 62,
+    "theme": "پاسخ خدا به درمانده‌ای که او را می‌خواند",
+    "topic": "answer_to_the_distressed",
+    "image_theme": "first light breaking through a dark forest",
+    "keywords": [
+      "dark forest",
+      "first light",
+      "answer"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 88,
+    "theme": "همه‌چیز فانی است جز ذات او",
+    "topic": "everlasting_face",
+    "image_theme": "ancient ruins fading under a glowing eternal dawn sky",
+    "keywords": [
+      "ruins",
+      "eternity",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 29,
+    "ayah": 60,
+    "theme": "خدا روزی‌دهنده‌ی همه است",
+    "topic": "sustainer_of_all",
+    "image_theme": "a small creature in a lush green field under soft rain",
+    "keywords": [
+      "rain",
+      "field",
+      "provision"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 26,
+    "theme": "هر چه در آسمان‌ها و زمین است از آنِ خداست و او بی‌نیاز و ستوده است",
+    "topic": "self_sufficient",
+    "image_theme": "wide starry sky reflected in a calm desert lake",
+    "keywords": [
+      "stars",
+      "reflection",
+      "desert"
+    ]
+  },
+  {
+    "surah": 35,
+    "ayah": 41,
+    "theme": "خدا آسمان‌ها و زمین را نگه می‌دارد تا از جا برنخیزند",
+    "topic": "sustaining_heavens",
+    "image_theme": "massive balanced clouds and mountain ridge at sunrise",
+    "keywords": [
+      "balance",
+      "mountain",
+      "sky"
+    ]
+  },
+  {
+    "surah": 36,
+    "ayah": 82,
+    "theme": "اراده‌ی او به محض خواستن تحقق می‌یابد",
+    "topic": "command_be",
+    "image_theme": "a seed instantly sprouting in time-lapse sunlight",
+    "keywords": [
+      "seed",
+      "sprout",
+      "sunlight"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 11,
+    "theme": "هیچ‌چیز همانند او نیست",
+    "topic": "incomparable",
+    "image_theme": "a single unique snowflake against a deep blue sky",
+    "keywords": [
+      "uniqueness",
+      "snowflake",
+      "blue"
+    ]
+  },
+  {
+    "surah": 50,
+    "ayah": 16,
+    "theme": "خدا از رگ گردن به انسان نزدیک‌تر است",
+    "topic": "nearness_of_god",
+    "image_theme": "a hand resting over a heartbeat glow in warm light",
+    "keywords": [
+      "closeness",
+      "heartbeat",
+      "warm light"
+    ]
+  },
+  {
+    "surah": 55,
+    "ayah": 26,
+    "theme": "هر که بر زمین است فانی می‌شود",
+    "topic": "all_perish",
+    "image_theme": "footprints on sand slowly washed by gentle waves",
+    "keywords": [
+      "footprints",
+      "waves",
+      "transience"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 3,
+    "theme": "او اول و آخر و پیدا و پنهان است",
+    "topic": "first_and_last",
+    "image_theme": "a spiral of light expanding from a single point in the sky",
+    "keywords": [
+      "beginning",
+      "end",
+      "spiral"
+    ]
+  },
+  {
+    "surah": 59,
+    "ayah": 22,
+    "theme": "دانای نهان و آشکار، بخشنده و مهربان",
+    "topic": "knower_of_unseen",
+    "image_theme": "moonlit sea revealing hidden depths below calm surface",
+    "keywords": [
+      "hidden",
+      "visible",
+      "moonlight"
+    ]
+  },
+  {
+    "surah": 59,
+    "ayah": 24,
+    "theme": "آفریننده و صورت‌بخش با نیکوترین نام‌ها",
+    "topic": "creator_of_forms",
+    "image_theme": "a close-up of a blooming flower with fine natural details",
+    "keywords": [
+      "creation",
+      "flower",
+      "detail"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 1,
+    "theme": "هر چه در آسمان‌ها و زمین است او را تسبیح می‌گوید",
+    "topic": "everything_praises",
+    "image_theme": "dawn chorus across a misty valley with birds and light",
+    "keywords": [
+      "praise",
+      "valley",
+      "birds"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 1,
+    "theme": "بزرگ و پربرکت است آن‌که فرمانروایی به دست اوست",
+    "topic": "blessed_dominion",
+    "image_theme": "a grand sunrise over endless mountain ranges",
+    "keywords": [
+      "sunrise",
+      "mountains",
+      "grandeur"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 2,
+    "theme": "مرگ و زندگی برای آزمودن نیکوترین عمل",
+    "topic": "trial_of_life",
+    "image_theme": "a lit candle and an hourglass on a quiet table by the window",
+    "keywords": [
+      "candle",
+      "hourglass",
+      "life"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 19,
+    "theme": "پرندگان در آسمان به مشیت خدا نگه داشته می‌شوند",
+    "topic": "birds_in_flight",
+    "image_theme": "flock of birds soaring in formation across a golden sky",
+    "keywords": [
+      "birds",
+      "flight",
+      "sky"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 30,
+    "theme": "اگر آب‌هایتان در زمین فرو رود، چه‌کسی آب گوارا می‌آورد؟",
+    "topic": "water_as_gift",
+    "image_theme": "a clear spring emerging from rocks in a green valley",
+    "keywords": [
+      "spring",
+      "water",
+      "gift"
+    ]
+  },
+  {
+    "surah": 112,
+    "ayah": 1,
+    "theme": "بگو او خدای یگانه است",
+    "topic": "oneness",
+    "image_theme": "a single glowing sun in a clear sky",
+    "keywords": [
+      "one",
+      "sun",
+      "clarity"
+    ]
+  },
+  {
+    "surah": 113,
+    "ayah": 1,
+    "theme": "پناه می‌برم به پروردگار سپیده‌دم",
+    "topic": "seeking_refuge_dawn",
+    "image_theme": "first light of dawn over a quiet field",
+    "keywords": [
+      "dawn",
+      "refuge",
+      "field"
+    ]
+  },
+  {
+    "surah": 114,
+    "ayah": 1,
+    "theme": "پناه می‌برم به پروردگار مردم",
+    "topic": "seeking_refuge_people",
+    "image_theme": "a safe warm house glowing at the edge of a quiet forest",
+    "keywords": [
+      "refuge",
+      "home",
+      "warm light"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 190,
+    "theme": "در آفرینش آسمان‌ها و زمین و آمدوشد شب و روز، نشانه‌هایی برای صاحبان خرد است",
+    "topic": "signs_in_creation",
+    "image_theme": "starry night turning into dawn above a calm landscape",
+    "keywords": [
+      "night",
+      "day",
+      "wisdom"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 5,
+    "theme": "خورشید و ماه برای شمارش سال‌ها و حساب",
+    "topic": "sun_and_moon",
+    "image_theme": "sun and moon in the same sky above gentle hills",
+    "keywords": [
+      "sun",
+      "moon",
+      "time"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 6,
+    "theme": "در آمدوشد شب و روز نشانه‌هایی برای پرهیزگاران است",
+    "topic": "day_and_night",
+    "image_theme": "day turning to night over a still river",
+    "keywords": [
+      "twilight",
+      "river",
+      "cycle"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 65,
+    "theme": "باران زمین مرده را زنده می‌کند",
+    "topic": "rain_revives_earth",
+    "image_theme": "rain falling on a dry cracked land turning green",
+    "keywords": [
+      "rain",
+      "revival",
+      "green"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 68,
+    "theme": "الهام خدا به زنبور عسل",
+    "topic": "bees",
+    "image_theme": "honey bees on blossoms in morning light",
+    "keywords": [
+      "bees",
+      "blossoms",
+      "honey"
+    ]
+  },
+  {
+    "surah": 21,
+    "ayah": 30,
+    "theme": "هر چیز زنده‌ای را از آب پدید آوردیم",
+    "topic": "origin_of_life",
+    "image_theme": "a drop of water falling creating ripples that bloom with life",
+    "keywords": [
+      "water",
+      "drop",
+      "life"
+    ]
+  },
+  {
+    "surah": 21,
+    "ayah": 33,
+    "theme": "شب و روز و خورشید و ماه هر یک در مداری شناورند",
+    "topic": "celestial_orbits",
+    "image_theme": "moon and sun orbits over a quiet landscape",
+    "keywords": [
+      "orbit",
+      "sun",
+      "moon"
+    ]
+  },
+  {
+    "surah": 22,
+    "ayah": 63,
+    "theme": "فرو فرستادن باران و سبز شدن زمین",
+    "topic": "rain_and_green",
+    "image_theme": "green meadow after rain with dewdrops",
+    "keywords": [
+      "dew",
+      "meadow",
+      "rain"
+    ]
+  },
+  {
+    "surah": 25,
+    "ayah": 47,
+    "theme": "شب پوششی است و خواب آرامش",
+    "topic": "night_as_garment",
+    "image_theme": "a peaceful night village under a blanket of stars",
+    "keywords": [
+      "night",
+      "rest",
+      "peace"
+    ]
+  },
+  {
+    "surah": 25,
+    "ayah": 61,
+    "theme": "برج‌ها و چراغ و ماه روشن در آسمان",
+    "topic": "stars_and_lamp",
+    "image_theme": "bright moon and stars in a deep clear sky",
+    "keywords": [
+      "moon",
+      "stars",
+      "sky"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 22,
+    "theme": "اختلاف زبان‌ها و رنگ‌ها از نشانه‌های خداست",
+    "topic": "diversity_of_tongues",
+    "image_theme": "diverse colorful flowers in one garden",
+    "keywords": [
+      "diversity",
+      "colors",
+      "garden"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 23,
+    "theme": "خواب شب و روز و جست‌وجوی روزی از نشانه‌های اوست",
+    "topic": "sleep_and_livelihood",
+    "image_theme": "a window with soft dawn light over a sleeping town",
+    "keywords": [
+      "sleep",
+      "dawn",
+      "town"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 24,
+    "theme": "برق و باران و زنده شدن زمین",
+    "topic": "lightning_and_rain",
+    "image_theme": "lightning in the distance over a field awaiting rain",
+    "keywords": [
+      "lightning",
+      "rain",
+      "field"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 25,
+    "theme": "برپا ماندن آسمان و زمین به فرمان او",
+    "topic": "heaven_and_earth_stand",
+    "image_theme": "vast sky over hills with orderly clouds",
+    "keywords": [
+      "order",
+      "sky",
+      "hills"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 46,
+    "theme": "بادهای نویدبخش باران",
+    "topic": "winds_of_mercy",
+    "image_theme": "wind moving through tall grass under bright clouds",
+    "keywords": [
+      "wind",
+      "grass",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 50,
+    "theme": "به آثار رحمت خدا بنگر که زمین را چگونه زنده می‌کند",
+    "topic": "signs_of_mercy",
+    "image_theme": "green shoots emerging after spring rain",
+    "keywords": [
+      "spring",
+      "shoots",
+      "mercy"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 10,
+    "theme": "آسمان‌ها بی‌ستون و کوه‌ها لنگر زمین",
+    "topic": "heavens_without_pillars",
+    "image_theme": "mountains beneath a wide sky with soft clouds",
+    "keywords": [
+      "pillars",
+      "mountains",
+      "sky"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 29,
+    "theme": "درآمدن شب در روز و روز در شب",
+    "topic": "night_into_day",
+    "image_theme": "sunset blending into night sky",
+    "keywords": [
+      "dusk",
+      "transition",
+      "sky"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 31,
+    "theme": "کشتی‌ها به لطف خدا در دریا روانند",
+    "topic": "ships_at_sea",
+    "image_theme": "wooden sailing ships on calm sea at golden hour",
+    "keywords": [
+      "ship",
+      "sea",
+      "golden hour"
+    ]
+  },
+  {
+    "surah": 41,
+    "ayah": 37,
+    "theme": "شب و روز و خورشید و ماه نشانه‌اند، آفریننده‌شان را بپرستید",
+    "topic": "signs_not_worshipped",
+    "image_theme": "moon and sun over open water",
+    "keywords": [
+      "sun",
+      "moon",
+      "water"
+    ]
+  },
+  {
+    "surah": 41,
+    "ayah": 39,
+    "theme": "زمین خشک با فرود آمدن باران می‌جنبد و می‌رویاند",
+    "topic": "earth_stirring",
+    "image_theme": "dry earth turning to a green field with rain",
+    "keywords": [
+      "rain",
+      "life",
+      "earth"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 29,
+    "theme": "آفرینش آسمان‌ها و زمین و جنبندگان نشانه‌هاست",
+    "topic": "living_creatures",
+    "image_theme": "diverse wildlife in an open meadow at dawn",
+    "keywords": [
+      "wildlife",
+      "meadow",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 32,
+    "theme": "کشتی‌های بزرگ چون کوه‌ها در دریا",
+    "topic": "ships_like_mountains",
+    "image_theme": "large ships on a wide sea",
+    "keywords": [
+      "ships",
+      "sea",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 3,
+    "theme": "در آسمان‌ها و زمین نشانه‌هایی برای اهل ایمان است",
+    "topic": "signs_for_believers",
+    "image_theme": "a bright sky over mountains and sea",
+    "keywords": [
+      "sky",
+      "mountains",
+      "sea"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 4,
+    "theme": "در آفرینش شما و جنبندگان نشانه‌هایی برای اهل یقین است",
+    "topic": "signs_in_self",
+    "image_theme": "many hands of different ages in soft light",
+    "keywords": [
+      "humanity",
+      "hands",
+      "light"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 20,
+    "theme": "در زمین نشانه‌هایی برای اهل یقین است",
+    "topic": "signs_on_earth",
+    "image_theme": "a wide open landscape with varied terrain",
+    "keywords": [
+      "earth",
+      "landscape",
+      "signs"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 21,
+    "theme": "در وجود خودتان هم نشانه‌هاست؛ آیا نمی‌بینید؟",
+    "topic": "signs_within_you",
+    "image_theme": "reflection of a face in still water ripples",
+    "keywords": [
+      "reflection",
+      "self",
+      "water"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 47,
+    "theme": "آسمان را با قدرت ساختیم و پیوسته آن را گسترش می‌دهیم",
+    "topic": "expanding_sky",
+    "image_theme": "expanding galaxy and star trails above a mountain",
+    "keywords": [
+      "galaxy",
+      "expansion",
+      "night"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 48,
+    "theme": "زمین را گسترانیدیم و چه نیکو گسترانندگانیم",
+    "topic": "spread_earth",
+    "image_theme": "vast open plains stretching to the horizon",
+    "keywords": [
+      "plains",
+      "horizon",
+      "earth"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 49,
+    "theme": "از هر چیز جفتی آفریدیم تا یادآور شوید",
+    "topic": "pairs_in_creation",
+    "image_theme": "pairs of birds or leaves in balanced harmony",
+    "keywords": [
+      "pairs",
+      "balance",
+      "nature"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 56,
+    "theme": "هدف آفرینش جن و انس بندگی است",
+    "topic": "purpose_of_creation",
+    "image_theme": "a quiet prayer rug on a floor lit by a window light",
+    "keywords": [
+      "worship",
+      "purpose",
+      "stillness"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 58,
+    "theme": "خدا روزی‌دهنده‌ی نیرومند و استوار است",
+    "topic": "provider_and_strength",
+    "image_theme": "strong ancient tree with deep roots and full fruits",
+    "keywords": [
+      "provision",
+      "roots",
+      "strength"
+    ]
+  },
+  {
+    "surah": 51,
+    "ayah": 55,
+    "theme": "یادآوری کن که یادآوری برای مؤمنان سودمند است",
+    "topic": "reminder_benefits",
+    "image_theme": "a gentle sunrise on an old stone path",
+    "keywords": [
+      "reminder",
+      "sunrise",
+      "path"
+    ]
+  },
+  {
+    "surah": 56,
+    "ayah": 68,
+    "theme": "آیا به آبی که می‌نوشید اندیشیده‌اید؟",
+    "topic": "water_we_drink",
+    "image_theme": "clear flowing water in a stream",
+    "keywords": [
+      "water",
+      "stream",
+      "clarity"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 15,
+    "theme": "زمین را رام شما کرد؛ در پهنه‌اش گام بردارید و از روزی او بخورید",
+    "topic": "earth_made_tame",
+    "image_theme": "a walking path through green fields and hills",
+    "keywords": [
+      "path",
+      "hills",
+      "provision"
+    ]
+  },
+  {
+    "surah": 71,
+    "ayah": 15,
+    "theme": "چگونه خدا هفت آسمان را طبقه‌طبقه آفرید",
+    "topic": "seven_heavens",
+    "image_theme": "layered clouds in deep sky at dusk",
+    "keywords": [
+      "layers",
+      "sky",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 71,
+    "ayah": 16,
+    "theme": "ماه را نور و خورشید را چراغ قرار داد",
+    "topic": "moon_and_sun_light",
+    "image_theme": "crescent moon and bright sun in the same sky",
+    "keywords": [
+      "moon",
+      "sun",
+      "light"
+    ]
+  },
+  {
+    "surah": 71,
+    "ayah": 19,
+    "theme": "زمین را برای شما فرشی گسترد",
+    "topic": "earth_as_carpet",
+    "image_theme": "wide soft land under a gentle sky",
+    "keywords": [
+      "earth",
+      "carpet",
+      "serenity"
+    ]
+  },
+  {
+    "surah": 78,
+    "ayah": 6,
+    "theme": "آیا زمین را گهواره‌ای قرار ندادیم؟",
+    "topic": "earth_as_cradle",
+    "image_theme": "a cradle-like valley of soft green hills",
+    "keywords": [
+      "cradle",
+      "valley",
+      "calm"
+    ]
+  },
+  {
+    "surah": 78,
+    "ayah": 8,
+    "theme": "شما را جفت‌جفت آفریدیم",
+    "topic": "created_in_pairs",
+    "image_theme": "two trees intertwined on a hill",
+    "keywords": [
+      "pairs",
+      "trees",
+      "hill"
+    ]
+  },
+  {
+    "surah": 78,
+    "ayah": 9,
+    "theme": "خواب شما را آرامش قرار دادیم",
+    "topic": "sleep_for_rest",
+    "image_theme": "a calm bedroom window with moonlight",
+    "keywords": [
+      "sleep",
+      "rest",
+      "moonlight"
+    ]
+  },
+  {
+    "surah": 78,
+    "ayah": 10,
+    "theme": "شب را پوشش قرار دادیم",
+    "topic": "night_as_cover",
+    "image_theme": "a quiet night covering a village",
+    "keywords": [
+      "night",
+      "cover",
+      "village"
+    ]
+  },
+  {
+    "surah": 78,
+    "ayah": 11,
+    "theme": "روز را زمان کسب معاش قرار دادیم",
+    "topic": "day_for_livelihood",
+    "image_theme": "a morning sun over busy fields",
+    "keywords": [
+      "morning",
+      "work",
+      "fields"
+    ]
+  },
+  {
+    "surah": 80,
+    "ayah": 24,
+    "theme": "انسان باید به غذای خود بنگرد",
+    "topic": "look_at_food",
+    "image_theme": "a table with simple bread and fruit in warm light",
+    "keywords": [
+      "food",
+      "bread",
+      "gratitude"
+    ]
+  },
+  {
+    "surah": 86,
+    "ayah": 5,
+    "theme": "انسان بنگرد از چه آفریده شده است",
+    "topic": "look_at_your_origin",
+    "image_theme": "a mirror of water reflecting the sky",
+    "keywords": [
+      "origin",
+      "reflection",
+      "sky"
+    ]
+  },
+  {
+    "surah": 88,
+    "ayah": 17,
+    "theme": "آیا به شتر نمی‌نگرند که چگونه آفریده شده؟",
+    "topic": "look_at_camel",
+    "image_theme": "a desert camel at dusk with soft dunes",
+    "keywords": [
+      "camel",
+      "dunes",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 87,
+    "ayah": 1,
+    "theme": "نام پروردگار والایت را تسبیح کن",
+    "topic": "glorify_most_high",
+    "image_theme": "a high mountain peak above the clouds at sunrise",
+    "keywords": [
+      "glorify",
+      "peak",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 39,
+    "ayah": 36,
+    "theme": "آیا خدا برای بنده‌اش کافی نیست؟",
+    "topic": "god_suffices",
+    "image_theme": "a small boat safe in a calm harbor at dawn",
+    "keywords": [
+      "harbor",
+      "safety",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 13,
+    "theme": "مؤمنان باید تنها بر خدا توکل کنند",
+    "topic": "trust_in_god",
+    "image_theme": "a bridge over a calm river at golden hour",
+    "keywords": [
+      "trust",
+      "bridge",
+      "river"
+    ]
+  },
+  {
+    "surah": 25,
+    "ayah": 58,
+    "theme": "بر آن زنده‌ی جاودان توکل کن که نمی‌میرد",
+    "topic": "trust_in_the_living",
+    "image_theme": "an old tree standing firm in a vast field at sunrise",
+    "keywords": [
+      "trust",
+      "tree",
+      "eternity"
+    ]
+  },
+  {
+    "surah": 11,
+    "ayah": 123,
+    "theme": "او را بپرست و بر او توکل کن",
+    "topic": "trust_and_worship",
+    "image_theme": "a path through wheat fields toward the horizon",
+    "keywords": [
+      "path",
+      "wheat",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 33,
+    "ayah": 3,
+    "theme": "بر خدا توکل کن که کارسازی او بس است",
+    "topic": "trust_enough",
+    "image_theme": "a light in a window in the night",
+    "keywords": [
+      "trust",
+      "window",
+      "light"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 29,
+    "theme": "به او ایمان آوردیم و بر او توکل کردیم",
+    "topic": "we_trust_in_him",
+    "image_theme": "a lone tree on a hill facing the dawn",
+    "keywords": [
+      "faith",
+      "tree",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 160,
+    "theme": "اگر خدا یاریتان کند هیچ‌کس بر شما چیره نمی‌شود",
+    "topic": "help_from_god",
+    "image_theme": "mountain cliffs under bright light and steady clouds",
+    "keywords": [
+      "strength",
+      "mountain",
+      "light"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 110,
+    "theme": "هر که بدی کند و آمرزش بخواهد، خدا را آمرزنده و مهربان می‌یابد",
+    "topic": "repentance_door_open",
+    "image_theme": "a door opening to warm light after the rain",
+    "keywords": [
+      "door",
+      "forgiveness",
+      "rain"
+    ]
+  },
+  {
+    "surah": 11,
+    "ayah": 90,
+    "theme": "از پروردگارتان آمرزش بخواهید و به سوی او بازگردید",
+    "topic": "seek_forgiveness",
+    "image_theme": "footprints leading back to a lit home",
+    "keywords": [
+      "return",
+      "home",
+      "forgiveness"
+    ]
+  },
+  {
+    "surah": 15,
+    "ayah": 49,
+    "theme": "بندگانم را آگاه کن که من آمرزنده و مهربانم",
+    "topic": "forgiving_merciful",
+    "image_theme": "soft sunrise over a quiet green valley",
+    "keywords": [
+      "forgiveness",
+      "valley",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 82,
+    "theme": "من آمرزنده‌ی کسی هستم که توبه کند و ایمان آورد و نیکو عمل کند",
+    "topic": "forgiver_of_repenters",
+    "image_theme": "a path through a garden after rain",
+    "keywords": [
+      "repentance",
+      "garden",
+      "path"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 25,
+    "theme": "او است که توبه را از بندگانش می‌پذیرد",
+    "topic": "accepts_repentance",
+    "image_theme": "open hands under a gentle rain of light",
+    "keywords": [
+      "repentance",
+      "hands",
+      "light"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 48,
+    "theme": "خدا هر گناهی را جز شرک می‌آمرزد",
+    "topic": "forgiveness_below_shirk",
+    "image_theme": "a clean horizon after storm clouds clear away",
+    "keywords": [
+      "forgiveness",
+      "horizon",
+      "clear sky"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 31,
+    "theme": "اگر خدا را دوست دارید، از من پیروی کنید تا خدا دوستتان بدارد",
+    "topic": "love_of_god",
+    "image_theme": "two lights meeting in a night sky",
+    "keywords": [
+      "love",
+      "lights",
+      "night"
+    ]
+  },
+  {
+    "surah": 110,
+    "ayah": 3,
+    "theme": "پروردگارت را به پاکی بستای و از او آمرزش بخواه",
+    "topic": "praise_and_forgiveness",
+    "image_theme": "dawn light on a quiet beach",
+    "keywords": [
+      "dawn",
+      "beach",
+      "peace"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 133,
+    "theme": "به سوی آمرزش پروردگارتان بشتابید",
+    "topic": "race_to_forgiveness",
+    "image_theme": "runner on a path toward a glowing sunrise",
+    "keywords": [
+      "race",
+      "path",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 21,
+    "theme": "برای رسیدن به آمرزش پروردگارتان از یکدیگر پیشی بگیرید",
+    "topic": "race_to_paradise",
+    "image_theme": "a long open path toward a horizon with glowing sky",
+    "keywords": [
+      "race",
+      "horizon",
+      "hope"
+    ]
+  },
+  {
+    "surah": 14,
+    "ayah": 40,
+    "theme": "پروردگارا، مرا و فرزندانم را برپادارندگان نماز قرار ده",
+    "topic": "dua_prayer_established",
+    "image_theme": "a prayer space lit by dawn light",
+    "keywords": [
+      "prayer",
+      "dawn",
+      "family"
+    ]
+  },
+  {
+    "surah": 14,
+    "ayah": 41,
+    "theme": "پروردگارا، مرا و پدر و مادرم و مؤمنان را بیامرز",
+    "topic": "dua_for_parents",
+    "image_theme": "two hands holding a warm lantern",
+    "keywords": [
+      "forgiveness",
+      "parents",
+      "lantern"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 24,
+    "theme": "بگو پروردگارا، بر پدر و مادرم رحم کن آن‌گونه که مرا کوچک پرورش دادند",
+    "topic": "dua_for_parents_mercy",
+    "image_theme": "an older and a younger hand held together in soft light",
+    "keywords": [
+      "parents",
+      "hands",
+      "love"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 97,
+    "theme": "پروردگارا، از وسوسه‌های شیطان به تو پناه می‌برم",
+    "topic": "dua_refuge_from_whispers",
+    "image_theme": "a safe lit lantern in a dark forest",
+    "keywords": [
+      "refuge",
+      "lantern",
+      "forest"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 118,
+    "theme": "پروردگارا بیامرز و رحم کن که تو بهترین مهربانانی",
+    "topic": "dua_forgive_and_have_mercy",
+    "image_theme": "rain softly on a quiet garden",
+    "keywords": [
+      "mercy",
+      "rain",
+      "garden"
+    ]
+  },
+  {
+    "surah": 26,
+    "ayah": 83,
+    "theme": "پروردگارا، به من حکمت ببخش و مرا به صالحان ملحق کن",
+    "topic": "dua_wisdom_righteous",
+    "image_theme": "an open book on a wooden table in morning sun",
+    "keywords": [
+      "wisdom",
+      "book",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 71,
+    "ayah": 28,
+    "theme": "پروردگارا من و پدر و مادرم و هر مؤمنی را بیامرز",
+    "topic": "dua_for_family_and_believers",
+    "image_theme": "a warm house window in a snowy night",
+    "keywords": [
+      "family",
+      "warmth",
+      "night"
+    ]
+  },
+  {
+    "surah": 14,
+    "ayah": 38,
+    "theme": "پروردگارا تو آنچه را پنهان و آشکار می‌کنیم می‌دانی",
+    "topic": "god_knows_all",
+    "image_theme": "moon on calm water showing hidden depths",
+    "keywords": [
+      "knowledge",
+      "moon",
+      "water"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 128,
+    "theme": "پروردگارا ما را تسلیم خود قرار ده",
+    "topic": "dua_submission",
+    "image_theme": "a simple stone courtyard in morning light",
+    "keywords": [
+      "submission",
+      "courtyard",
+      "light"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 80,
+    "theme": "پروردگارا مرا با راستی وارد کن و با راستی بیرون ببر",
+    "topic": "dua_truthful_entry",
+    "image_theme": "an open gate at sunrise with a straight path",
+    "keywords": [
+      "truth",
+      "gate",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 29,
+    "theme": "پروردگارا مرا در جایی پربرکت فرود آور",
+    "topic": "dua_blessed_landing",
+    "image_theme": "a boat arriving at calm shore at dawn",
+    "keywords": [
+      "landing",
+      "shore",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 25,
+    "theme": "پروردگارتان به آنچه در دل‌هاست داناتر است",
+    "topic": "god_knows_hearts",
+    "image_theme": "calm night sky reflecting on a quiet lake",
+    "keywords": [
+      "hearts",
+      "sky",
+      "lake"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 45,
+    "theme": "از شکیبایی و نماز یاری بجویید",
+    "topic": "patience_and_prayer",
+    "image_theme": "a calm person silhouette in prayer by a river",
+    "keywords": [
+      "patience",
+      "prayer",
+      "river"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 156,
+    "theme": "ما از آنِ خداییم و به سوی او بازمی‌گردیم",
+    "topic": "from_god_to_god",
+    "image_theme": "a long river reaching the sea at sunset",
+    "keywords": [
+      "return",
+      "river",
+      "sunset"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 208,
+    "theme": "همگی در صلح و سلامت وارد شوید",
+    "topic": "enter_peace",
+    "image_theme": "a white dove over a calm landscape",
+    "keywords": [
+      "peace",
+      "dove",
+      "calm"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 238,
+    "theme": "بر نمازها پایبند باشید و برای خدا با خشوع برخیزید",
+    "topic": "guard_prayers",
+    "image_theme": "a quiet prayer space in warm light",
+    "keywords": [
+      "prayer",
+      "stillness",
+      "light"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 256,
+    "theme": "در دین اجباری نیست",
+    "topic": "no_compulsion",
+    "image_theme": "an open door in a sunlit meadow",
+    "keywords": [
+      "freedom",
+      "door",
+      "meadow"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 257,
+    "theme": "خدا مؤمنان را از تاریکی‌ها به سوی نور می‌برد",
+    "topic": "from_darkness_to_light",
+    "image_theme": "a tunnel opening to bright light",
+    "keywords": [
+      "darkness",
+      "light",
+      "exit"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 268,
+    "theme": "شیطان وعده‌ی فقر می‌دهد و خدا وعده‌ی آمرزش و فزونی",
+    "topic": "satan_vs_god_promise",
+    "image_theme": "a split sky half dark half golden",
+    "keywords": [
+      "fear",
+      "hope",
+      "sky"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 269,
+    "theme": "هر که حکمت یابد خیر فراوان یافته است",
+    "topic": "gift_of_wisdom",
+    "image_theme": "an open old library bathed in light",
+    "keywords": [
+      "wisdom",
+      "library",
+      "light"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 281,
+    "theme": "از روزی بترسید که به سوی خدا بازمی‌گردید",
+    "topic": "beware_the_day",
+    "image_theme": "a road leading to horizon of golden clouds",
+    "keywords": [
+      "return",
+      "road",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 245,
+    "theme": "چه کسی به خدا وام نیکو می‌دهد؟",
+    "topic": "good_loan",
+    "image_theme": "a hand giving bread to another in warm light",
+    "keywords": [
+      "giving",
+      "hands",
+      "bread"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 274,
+    "theme": "آنان که شب و روز پنهان و آشکار انفاق می‌کنند، پاداششان نزد پروردگارشان است",
+    "topic": "giving_secretly_openly",
+    "image_theme": "lanterns glowing on a village road at night",
+    "keywords": [
+      "giving",
+      "night",
+      "lantern"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 195,
+    "theme": "نیکی کنید که خدا نیکوکاران را دوست دارد",
+    "topic": "do_good_for_love",
+    "image_theme": "a sunlit garden path with fresh flowers",
+    "keywords": [
+      "kindness",
+      "garden",
+      "flowers"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 172,
+    "theme": "از روزی‌های پاک بخورید و شکر کنید",
+    "topic": "eat_pure_and_thank",
+    "image_theme": "a table with fruits and bread in sunlight",
+    "keywords": [
+      "gratitude",
+      "fruits",
+      "sunlight"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 110,
+    "theme": "هر خیری که پیش فرستید، نزد خدا می‌یابید",
+    "topic": "good_remains",
+    "image_theme": "a lantern kept in a safe niche at night",
+    "keywords": [
+      "good deeds",
+      "lantern",
+      "night"
+    ]
+  },
+  {
+    "surah": 2,
+    "ayah": 42,
+    "theme": "حق را با باطل نیامیزید و حقیقت را پنهان نکنید",
+    "topic": "truth_not_hidden",
+    "image_theme": "clear stream water over clean stones",
+    "keywords": [
+      "truth",
+      "water",
+      "clarity"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 30,
+    "theme": "روزی که هر کس آنچه از نیکی انجام داده را حاضر می‌یابد",
+    "topic": "face_to_face_with_deeds",
+    "image_theme": "a mirror-like lake at dawn",
+    "keywords": [
+      "deeds",
+      "mirror",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 102,
+    "theme": "از خدا آنگونه که شایسته است بترسید",
+    "topic": "fear_god_rightly",
+    "image_theme": "a quiet mountain landscape at sunrise",
+    "keywords": [
+      "mindfulness",
+      "mountain",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 104,
+    "theme": "گروهی باشید که به نیکی بخوانند و به معروف فرمان دهند",
+    "topic": "invite_to_good",
+    "image_theme": "a lit torch passed along a path",
+    "keywords": [
+      "good",
+      "torch",
+      "path"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 185,
+    "theme": "هر کسی مرگ را می‌چشد و زندگی دنیا جز کالای فریبنده نیست",
+    "topic": "every_soul_tastes_death",
+    "image_theme": "autumn leaf floating down a river",
+    "keywords": [
+      "transience",
+      "leaf",
+      "river"
+    ]
+  },
+  {
+    "surah": 3,
+    "ayah": 2,
+    "theme": "خدایی که جز او معبودی نیست، زنده و پاینده",
+    "topic": "the_living_sustainer",
+    "image_theme": "sun at the zenith above an eternal ocean",
+    "keywords": [
+      "living",
+      "sun",
+      "ocean"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 40,
+    "theme": "خدا به اندازه‌ی ذره‌ای ستم نمی‌کند",
+    "topic": "not_an_atom_wronged",
+    "image_theme": "a single grain of light on a scale",
+    "keywords": [
+      "justice",
+      "scale",
+      "light"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 79,
+    "theme": "هر نیکی از خداست و هر بدی از خود تو",
+    "topic": "good_from_god",
+    "image_theme": "a clear mirror reflecting a bright sky",
+    "keywords": [
+      "accountability",
+      "mirror",
+      "sky"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 85,
+    "theme": "هر که میانجیگری نیکو کند بهره‌ای از آن می‌برد",
+    "topic": "good_intercession",
+    "image_theme": "two people clasping hands under soft sky",
+    "keywords": [
+      "help",
+      "hands",
+      "sky"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 114,
+    "theme": "خیری در گفتگوهای پنهانی نیست مگر در صدقه و نیکی و اصلاح میان مردم",
+    "topic": "good_in_reconciling",
+    "image_theme": "two hands joined in a peaceful field",
+    "keywords": [
+      "reconciliation",
+      "hands",
+      "field"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 123,
+    "theme": "پاداش به آرزو نیست؛ هر که بدی کند کیفر می‌بیند",
+    "topic": "deeds_not_wishes",
+    "image_theme": "a seed planted in the soil with sprout",
+    "keywords": [
+      "deeds",
+      "seed",
+      "sprout"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 124,
+    "theme": "هر مرد یا زن که کار نیک کند و مؤمن باشد به بهشت می‌رود",
+    "topic": "good_deeds_for_all",
+    "image_theme": "a woman and a man walking a garden path in light",
+    "keywords": [
+      "equality",
+      "garden",
+      "path"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 125,
+    "theme": "چه کسی دینش بهتر است از آن‌که خود را تسلیم خدا کند و نیکوکار باشد؟",
+    "topic": "best_religion",
+    "image_theme": "a surrender of open palms toward sun",
+    "keywords": [
+      "submission",
+      "sun",
+      "peace"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 147,
+    "theme": "اگر شکر کنید و ایمان آورید، خدا شما را عذاب نمی‌کند",
+    "topic": "gratitude_removes_punishment",
+    "image_theme": "rainbow after a storm over a green valley",
+    "keywords": [
+      "gratitude",
+      "rainbow",
+      "valley"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 148,
+    "theme": "خدا آشکار کردن سخن بد را دوست ندارد",
+    "topic": "dislike_of_ill_speech",
+    "image_theme": "a quiet river in morning mist",
+    "keywords": [
+      "silence",
+      "river",
+      "mist"
+    ]
+  },
+  {
+    "surah": 4,
+    "ayah": 149,
+    "theme": "اگر نیکی کنید یا ببخشید، خدا بخشنده و تواناست",
+    "topic": "forgive_with_power",
+    "image_theme": "an open hand releasing a white dove",
+    "keywords": [
+      "forgive",
+      "dove",
+      "hand"
+    ]
+  },
+  {
+    "surah": 5,
+    "ayah": 9,
+    "theme": "به مؤمنان نیکوکار وعده‌ی آمرزش و پاداش بزرگ داده شده",
+    "topic": "promise_to_believers",
+    "image_theme": "a golden field in the sunlight",
+    "keywords": [
+      "promise",
+      "field",
+      "gold"
+    ]
+  },
+  {
+    "surah": 5,
+    "ayah": 35,
+    "theme": "از خدا پروا کنید و وسیله‌ای برای تقرب به او بجویید",
+    "topic": "seek_the_means",
+    "image_theme": "a ladder of light into the clouds",
+    "keywords": [
+      "means",
+      "light",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 5,
+    "ayah": 100,
+    "theme": "پاک و ناپاک برابر نیستند هرچند کثرت ناپاک تو را شگفت‌زده کند",
+    "topic": "good_and_bad_unequal",
+    "image_theme": "clear water beside muddy water",
+    "keywords": [
+      "pure",
+      "impure",
+      "water"
+    ]
+  },
+  {
+    "surah": 5,
+    "ayah": 105,
+    "theme": "مراقب خودتان باشید؛ اگر هدایت یافتید گمراهی دیگران زیانتان نمی‌رساند",
+    "topic": "take_care_of_yourselves",
+    "image_theme": "a lone lamp on a path",
+    "keywords": [
+      "self",
+      "guidance",
+      "lamp"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 32,
+    "theme": "زندگی دنیا جز بازی و سرگرمی نیست و سرای آخرت برای پرهیزگاران بهتر است",
+    "topic": "worldly_life_play",
+    "image_theme": "children's kite in the sky over a green field",
+    "keywords": [
+      "play",
+      "kite",
+      "field"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 108,
+    "theme": "معبودان دیگران را ناسزا نگویید",
+    "topic": "dont_insult_others",
+    "image_theme": "two paths diverging in a meadow",
+    "keywords": [
+      "respect",
+      "paths",
+      "meadow"
+    ]
+  },
+  {
+    "surah": 6,
+    "ayah": 153,
+    "theme": "این راه راست من است، از آن پیروی کنید",
+    "topic": "straight_path",
+    "image_theme": "a straight path through the wheat field",
+    "keywords": [
+      "path",
+      "straight",
+      "wheat"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 26,
+    "theme": "بهترین لباس، لباس تقواست",
+    "topic": "garment_of_piety",
+    "image_theme": "a simple folded white cloth on wood in sunlight",
+    "keywords": [
+      "garment",
+      "piety",
+      "simplicity"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 31,
+    "theme": "بخورید و بیاشامید و اسراف نکنید",
+    "topic": "eat_dont_waste",
+    "image_theme": "a modest meal and bowl of water",
+    "keywords": [
+      "balance",
+      "meal",
+      "water"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 55,
+    "theme": "پروردگارتان را با زاری و در نهان بخوانید",
+    "topic": "call_humbly",
+    "image_theme": "a hush of dusk over still water",
+    "keywords": [
+      "call",
+      "hush",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 56,
+    "theme": "پس از اصلاح زمین در آن فساد نکنید",
+    "topic": "dont_corrupt_earth",
+    "image_theme": "a restored green land with a steady stream",
+    "keywords": [
+      "earth",
+      "restoration",
+      "stream"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 96,
+    "theme": "اگر مردم ایمان آورند و پرهیزگار شوند برکت‌ها را بر آنان می‌گشاییم",
+    "topic": "blessings_of_faith",
+    "image_theme": "a lush valley with rain and light",
+    "keywords": [
+      "blessings",
+      "valley",
+      "rain"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 200,
+    "theme": "اگر وسوسه‌ای از شیطان به تو رسید به خدا پناه ببر",
+    "topic": "refuge_from_whispers",
+    "image_theme": "a fortress-like mountain shelter in storm",
+    "keywords": [
+      "refuge",
+      "shelter",
+      "storm"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 201,
+    "theme": "پرهیزگاران هنگام وسوسه یاد می‌کنند و بینا می‌شوند",
+    "topic": "those_who_remember",
+    "image_theme": "a person opening eyes to the sunrise",
+    "keywords": [
+      "awareness",
+      "sunrise",
+      "eyes"
+    ]
+  },
+  {
+    "surah": 7,
+    "ayah": 205,
+    "theme": "در دل با زاری و آرامی پروردگارت را یاد کن",
+    "topic": "remember_in_secret",
+    "image_theme": "an early morning mist and quiet pond",
+    "keywords": [
+      "remembrance",
+      "mist",
+      "pond"
+    ]
+  },
+  {
+    "surah": 8,
+    "ayah": 29,
+    "theme": "اگر پرهیزگار شوید خدا برای شما معیاری برای تشخیص حق از باطل قرار می‌دهد",
+    "topic": "criterion_of_piety",
+    "image_theme": "a bright lantern showing a forked path",
+    "keywords": [
+      "criterion",
+      "lantern",
+      "path"
+    ]
+  },
+  {
+    "surah": 8,
+    "ayah": 61,
+    "theme": "اگر به صلح گرایدند، تو هم به صلح بگرای",
+    "topic": "incline_to_peace",
+    "image_theme": "a dove of peace on olive branch",
+    "keywords": [
+      "peace",
+      "dove",
+      "olive branch"
+    ]
+  },
+  {
+    "surah": 9,
+    "ayah": 18,
+    "theme": "آبادکنندگان مساجد کسانی‌اند که به خدا و آخرت ایمان دارند",
+    "topic": "those_who_tend_mosques",
+    "image_theme": "a quiet courtyard with fountain at dawn",
+    "keywords": [
+      "courtyard",
+      "fountain",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 9,
+    "ayah": 119,
+    "theme": "از خدا بترسید و با راستگویان باشید",
+    "topic": "be_with_the_truthful",
+    "image_theme": "a clear mirror lake at sunrise",
+    "keywords": [
+      "truthful",
+      "lake",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 9,
+    "ayah": 128,
+    "theme": "پیامبری از خودتان آمد که رنج شما بر او سخت است و بر هدایت شما حریص و مهربان است",
+    "topic": "compassion_of_the_messenger",
+    "image_theme": "a hand extended offering warm bread in snowy village",
+    "keywords": [
+      "compassion",
+      "hand",
+      "warmth"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 25,
+    "theme": "خدا به سرای سلامت دعوت می‌کند",
+    "topic": "abode_of_peace",
+    "image_theme": "a quiet garden gate in the morning",
+    "keywords": [
+      "peace",
+      "garden",
+      "gate"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 26,
+    "theme": "برای نیکوکاران بهترین پاداش و افزونی است",
+    "topic": "those_who_do_good",
+    "image_theme": "golden light over a garden",
+    "keywords": [
+      "reward",
+      "garden",
+      "light"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 44,
+    "theme": "خدا به مردم ستم نمی‌کند",
+    "topic": "no_wrong_to_people",
+    "image_theme": "a balanced scale of clear water",
+    "keywords": [
+      "justice",
+      "water",
+      "balance"
+    ]
+  },
+  {
+    "surah": 10,
+    "ayah": 58,
+    "theme": "به فضل و رحمت خدا شاد باشید که بهتر از هر دارایی است",
+    "topic": "rejoice_in_mercy",
+    "image_theme": "spring blossoms in the warm sun",
+    "keywords": [
+      "joy",
+      "blossoms",
+      "sun"
+    ]
+  },
+  {
+    "surah": 11,
+    "ayah": 112,
+    "theme": "همان‌گونه که فرمان یافته‌ای استوار بمان",
+    "topic": "stand_firm",
+    "image_theme": "a strong cedar tree on a rock",
+    "keywords": [
+      "steadfast",
+      "tree",
+      "rock"
+    ]
+  },
+  {
+    "surah": 11,
+    "ayah": 115,
+    "theme": "شکیبایی کن که خدا پاداش نیکوکاران را ضایع نمی‌کند",
+    "topic": "patience_reward",
+    "image_theme": "a patient farmer waiting before a seeded field",
+    "keywords": [
+      "patience",
+      "field",
+      "seed"
+    ]
+  },
+  {
+    "surah": 12,
+    "ayah": 53,
+    "theme": "نفس انسان به بدی فرمان می‌دهد مگر آن‌که پروردگارم رحم کند",
+    "topic": "self_that_commands_evil",
+    "image_theme": "calm water mirroring a stormy sky",
+    "keywords": [
+      "self",
+      "water",
+      "storm"
+    ]
+  },
+  {
+    "surah": 12,
+    "ayah": 86,
+    "theme": "غم و اندوهم را فقط به خدا می‌گویم",
+    "topic": "complaint_to_god_only",
+    "image_theme": "a lone person on a hill at dusk",
+    "keywords": [
+      "grief",
+      "hill",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 13,
+    "ayah": 22,
+    "theme": "بدی را با نیکی دفع می‌کنند",
+    "topic": "those_who_repel_evil_with_good",
+    "image_theme": "a white flower growing through stone",
+    "keywords": [
+      "good",
+      "flower",
+      "stone"
+    ]
+  },
+  {
+    "surah": 13,
+    "ayah": 29,
+    "theme": "کسانی که ایمان آورده و نیکوکارند، خوشا به حالشان",
+    "topic": "blessed_for_the_faithful",
+    "image_theme": "a sunlit orchard with ripe fruit",
+    "keywords": [
+      "blessing",
+      "orchard",
+      "sun"
+    ]
+  },
+  {
+    "surah": 15,
+    "ayah": 9,
+    "theme": "ما خود قرآن را نازل کردیم و خود نگهبان آن هستیم",
+    "topic": "quran_preserved",
+    "image_theme": "an old guarded book glowing in a mountain cave",
+    "keywords": [
+      "book",
+      "preservation",
+      "light"
+    ]
+  },
+  {
+    "surah": 15,
+    "ayah": 85,
+    "theme": "با گذشت زیبا درگذر",
+    "topic": "forgive_beautifully",
+    "image_theme": "a gentle hand releasing flower petals on water",
+    "keywords": [
+      "forgive",
+      "petals",
+      "water"
+    ]
+  },
+  {
+    "surah": 15,
+    "ayah": 99,
+    "theme": "پروردگارت را بپرست تا یقین برسد",
+    "topic": "worship_until_certainty",
+    "image_theme": "a steady candle burning down through the night",
+    "keywords": [
+      "devotion",
+      "candle",
+      "night"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 78,
+    "theme": "خدا شما را از شکم مادرانتان بیرون آورد و گوش و چشم و دل داد",
+    "topic": "senses_as_gifts",
+    "image_theme": "a newborn light before dawn on a quiet hill",
+    "keywords": [
+      "gift",
+      "dawn",
+      "hill"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 80,
+    "theme": "خدا خانه‌های شما را آرامشگاه شما ساخت",
+    "topic": "houses_for_rest",
+    "image_theme": "a warm home with chimney smoke in the mountains",
+    "keywords": [
+      "home",
+      "rest",
+      "mountains"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 91,
+    "theme": "به پیمان خدا وفا کنید",
+    "topic": "keep_covenant",
+    "image_theme": "two hands holding a rope in the sunrise",
+    "keywords": [
+      "covenant",
+      "rope",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 98,
+    "theme": "هنگام قرائت قرآن از شیطان رانده‌شده به خدا پناه ببر",
+    "topic": "seek_refuge_when_reciting",
+    "image_theme": "an open book beside a lamp in the night",
+    "keywords": [
+      "refuge",
+      "book",
+      "lamp"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 114,
+    "theme": "از روزی حلال و پاک بخورید و شکر نعمت خدا کنید",
+    "topic": "eat_halal_and_thank",
+    "image_theme": "a basket of fruit in a sunlit garden",
+    "keywords": [
+      "halal",
+      "gratitude",
+      "fruit"
+    ]
+  },
+  {
+    "surah": 16,
+    "ayah": 127,
+    "theme": "صبر کن و صبرت جز به یاری خدا نیست",
+    "topic": "patience_with_god_help",
+    "image_theme": "a rock enduring waves at sunrise",
+    "keywords": [
+      "patience",
+      "rock",
+      "waves"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 9,
+    "theme": "این قرآن به استوارترین راه هدایت می‌کند",
+    "topic": "quran_guides_best",
+    "image_theme": "a compass-like star over the desert at night",
+    "keywords": [
+      "guidance",
+      "star",
+      "desert"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 26,
+    "theme": "حق خویشاوندان و مستمندان و در راه‌ماندگان را بده و اسراف نکن",
+    "topic": "rights_of_kin_and_needy",
+    "image_theme": "a hand giving a loaf of bread to a traveler",
+    "keywords": [
+      "giving",
+      "traveler",
+      "bread"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 28,
+    "theme": "اگر نمی‌توانی بدهی با گفتاری نرم و آسان پاسخ بده",
+    "topic": "gentle_words_when_unable",
+    "image_theme": "a soft smile in warm sunrise light",
+    "keywords": [
+      "kind words",
+      "smile",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 29,
+    "theme": "دستت را بسته مدار و آن را یکسره گشاده هم مگذار",
+    "topic": "balance_in_spending",
+    "image_theme": "a balanced scale with two dishes",
+    "keywords": [
+      "balance",
+      "scale",
+      "moderation"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 31,
+    "theme": "از ترس فقر فرزندانتان را مکشید؛ ما روزی می‌دهیم",
+    "topic": "dont_fear_poverty",
+    "image_theme": "children playing in a sunlit field",
+    "keywords": [
+      "children",
+      "field",
+      "provision"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 32,
+    "theme": "به زنا نزدیک نشوید",
+    "topic": "dont_near_adultery",
+    "image_theme": "a safe fence at the edge of a cliff in dawn",
+    "keywords": [
+      "boundary",
+      "fence",
+      "cliff"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 35,
+    "theme": "کیل را تمام بدهید و با ترازوی درست بسنجید",
+    "topic": "fair_measure",
+    "image_theme": "an honest balance scale with grain in sun",
+    "keywords": [
+      "fair",
+      "scale",
+      "grain"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 53,
+    "theme": "به بندگانم بگو سخنی که بهتر است بگویند",
+    "topic": "speak_best_words",
+    "image_theme": "a gentle hand arranging flowers",
+    "keywords": [
+      "speech",
+      "flowers",
+      "gentle"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 78,
+    "theme": "نماز را از زوال خورشید تا تاریکی شب برپا دار",
+    "topic": "establish_prayer",
+    "image_theme": "sun shifting from noon to dusk",
+    "keywords": [
+      "prayer",
+      "sun",
+      "time"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 79,
+    "theme": "بخشی از شب را برای تهجد برخیز",
+    "topic": "night_vigil",
+    "image_theme": "a single candle in the quiet night",
+    "keywords": [
+      "night",
+      "candle",
+      "devotion"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 81,
+    "theme": "حق آمد و باطل نابود شد",
+    "topic": "truth_has_come",
+    "image_theme": "a sunrise breaking over dark clouds",
+    "keywords": [
+      "truth",
+      "sunrise",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 82,
+    "theme": "از قرآن آنچه شفا و رحمت است نازل می‌کنیم",
+    "topic": "quran_is_healing",
+    "image_theme": "a healing herb garden at dawn",
+    "keywords": [
+      "healing",
+      "garden",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 84,
+    "theme": "هر کس بر اساس سرشت خود عمل می‌کند",
+    "topic": "each_acts_by_nature",
+    "image_theme": "different trees each bearing own fruit",
+    "keywords": [
+      "nature",
+      "trees",
+      "fruit"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 85,
+    "theme": "از دانش جز اندکی به شما داده نشده است",
+    "topic": "little_knowledge",
+    "image_theme": "a small candle before a great dark sky of stars",
+    "keywords": [
+      "knowledge",
+      "candle",
+      "stars"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 110,
+    "theme": "خدا را یا رحمان بخوانید؛ همه‌ی نام‌های نیکو از آنِ اوست",
+    "topic": "call_god_or_rahman",
+    "image_theme": "gentle light over water",
+    "keywords": [
+      "names",
+      "light",
+      "water"
+    ]
+  },
+  {
+    "surah": 17,
+    "ayah": 111,
+    "theme": "ستایش خدایی را که فرزندی نگرفته و شریکی در فرمانروایی ندارد",
+    "topic": "praise_who_has_no_child",
+    "image_theme": "a calm sky with gentle clouds",
+    "keywords": [
+      "praise",
+      "sky",
+      "calm"
+    ]
+  },
+  {
+    "surah": 18,
+    "ayah": 28,
+    "theme": "با کسانی که پروردگارشان را صبح و شام می‌خوانند همراه باش",
+    "topic": "patient_with_the_remembering",
+    "image_theme": "a group of lights in a field at dusk",
+    "keywords": [
+      "company",
+      "lights",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 18,
+    "ayah": 30,
+    "theme": "پاداش نیکوکاران ضایع نمی‌شود",
+    "topic": "reward_of_the_good",
+    "image_theme": "a harvested field in golden sun",
+    "keywords": [
+      "reward",
+      "harvest",
+      "gold"
+    ]
+  },
+  {
+    "surah": 18,
+    "ayah": 45,
+    "theme": "مثل زندگی دنیا مانند آبی است که از آسمان می‌آید و گیاه را سبز می‌کند و بعد خشک و پراکنده می‌شود",
+    "topic": "parable_of_this_life",
+    "image_theme": "a green field turning dry in time-lapse",
+    "keywords": [
+      "life",
+      "field",
+      "time"
+    ]
+  },
+  {
+    "surah": 18,
+    "ayah": 109,
+    "theme": "اگر دریا مرکب کلمات پروردگارم باشد، پیش از پایان آن به پایان می‌رسد",
+    "topic": "words_of_god_endless",
+    "image_theme": "a vast ocean at sunrise with an inkwell-like shore",
+    "keywords": [
+      "ocean",
+      "ink",
+      "infinity"
+    ]
+  },
+  {
+    "surah": 18,
+    "ayah": 110,
+    "theme": "هر که به دیدار پروردگارش امید دارد، کار نیک کند و کسی را در عبادت شریک نکند",
+    "topic": "do_good_no_partners",
+    "image_theme": "a path of light across a quiet sea",
+    "keywords": [
+      "hope",
+      "path",
+      "sea"
+    ]
+  },
+  {
+    "surah": 19,
+    "ayah": 96,
+    "theme": "برای مؤمنان نیکوکار، خدا در دل‌ها دوستی قرار می‌دهد",
+    "topic": "love_for_the_good",
+    "image_theme": "two people smiling in warm sunlight",
+    "keywords": [
+      "love",
+      "smile",
+      "sunlight"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 2,
+    "theme": "قرآن را بر تو نفرستادیم تا به رنج افتی",
+    "topic": "quran_not_hardship",
+    "image_theme": "an open book glowing in soft light",
+    "keywords": [
+      "ease",
+      "book",
+      "light"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 14,
+    "theme": "منم خدا؛ مرا بپرست و برای یاد من نماز برپا دار",
+    "topic": "worship_and_remember",
+    "image_theme": "a first ray of light through a quiet window",
+    "keywords": [
+      "worship",
+      "remembrance",
+      "light"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 124,
+    "theme": "هر که از یاد من روی بگرداند زندگی تنگ و سخت خواهد داشت",
+    "topic": "life_of_distress",
+    "image_theme": "a dry empty landscape under a gray sky",
+    "keywords": [
+      "distress",
+      "dry land",
+      "sky"
+    ]
+  },
+  {
+    "surah": 20,
+    "ayah": 132,
+    "theme": "خانواده‌ات را به نماز فرمان ده",
+    "topic": "command_family_to_pray",
+    "image_theme": "a family hearth glowing at dusk",
+    "keywords": [
+      "family",
+      "hearth",
+      "dusk"
+    ]
+  },
+  {
+    "surah": 21,
+    "ayah": 35,
+    "theme": "ما شما را با بدی و خوبی می‌آزماییم",
+    "topic": "tests_good_and_bad",
+    "image_theme": "a path of sun and shadow in a forest",
+    "keywords": [
+      "trial",
+      "forest",
+      "path"
+    ]
+  },
+  {
+    "surah": 21,
+    "ayah": 47,
+    "theme": "ترازوهای عدل را در قیامت می‌گذاریم و به کسی ذره‌ای ستم نمی‌شود",
+    "topic": "scales_of_justice",
+    "image_theme": "an ancient balance scale in white light",
+    "keywords": [
+      "justice",
+      "scale",
+      "light"
+    ]
+  },
+  {
+    "surah": 22,
+    "ayah": 46,
+    "theme": "چشم‌ها کور نمی‌شود، دل‌ها کور می‌شود",
+    "topic": "blind_hearts",
+    "image_theme": "a person walking in fog toward a light",
+    "keywords": [
+      "heart",
+      "fog",
+      "light"
+    ]
+  },
+  {
+    "surah": 22,
+    "ayah": 77,
+    "theme": "رکوع و سجود کنید و پروردگارتان را بپرستید و نیکی کنید",
+    "topic": "bow_and_do_good",
+    "image_theme": "a quiet prayer room at dawn",
+    "keywords": [
+      "prayer",
+      "dawn",
+      "room"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 1,
+    "theme": "مؤمنان رستگار شدند",
+    "topic": "successful_believers",
+    "image_theme": "sunrise over a green valley",
+    "keywords": [
+      "success",
+      "valley",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 96,
+    "theme": "بدی را به بهترین شیوه دفع کن",
+    "topic": "repel_evil_with_good",
+    "image_theme": "a rose growing through a crack in a wall",
+    "keywords": [
+      "good",
+      "rose",
+      "wall"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 115,
+    "theme": "آیا گمان کرده‌اید شما را بیهوده آفریده‌ایم؟",
+    "topic": "not_created_in_vain",
+    "image_theme": "a star-filled sky above a calm sea",
+    "keywords": [
+      "purpose",
+      "stars",
+      "sea"
+    ]
+  },
+  {
+    "surah": 23,
+    "ayah": 116,
+    "theme": "بلندمرتبه است خدا، پادشاه حق",
+    "topic": "exalted_is_god",
+    "image_theme": "a glowing sun above endless clouds",
+    "keywords": [
+      "exalted",
+      "sun",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 24,
+    "ayah": 30,
+    "theme": "به مؤمنان بگو چشم‌های خود را فروبندند و پاکدامنی کنند",
+    "topic": "lower_the_gaze",
+    "image_theme": "a person looking down at a small flower",
+    "keywords": [
+      "modesty",
+      "flower",
+      "gaze"
+    ]
+  },
+  {
+    "surah": 24,
+    "ayah": 52,
+    "theme": "هر که خدا و رسولش را اطاعت کند و پروا کند، رستگار است",
+    "topic": "obey_and_be_successful",
+    "image_theme": "a straight road at sunrise",
+    "keywords": [
+      "obedience",
+      "road",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 25,
+    "ayah": 67,
+    "theme": "کسانی که انفاق می‌کنند نه اسراف نه سخت‌گیری، میانه‌رو هستند",
+    "topic": "balanced_spending",
+    "image_theme": "a balanced scale of water and light",
+    "keywords": [
+      "balance",
+      "scale",
+      "moderation"
+    ]
+  },
+  {
+    "surah": 25,
+    "ayah": 77,
+    "theme": "پروردگارم به شما اعتنایی ندارد اگر دعای شما نباشد",
+    "topic": "you_are_known_by_your_prayer",
+    "image_theme": "open hands holding evening light",
+    "keywords": [
+      "dua",
+      "hands",
+      "evening"
+    ]
+  },
+  {
+    "surah": 26,
+    "ayah": 80,
+    "theme": "و چون بیمار شوم او شفایم می‌دهد",
+    "topic": "god_heals",
+    "image_theme": "a healing herb garden at dawn",
+    "keywords": [
+      "healing",
+      "herbs",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 27,
+    "ayah": 73,
+    "theme": "پروردگارت بر مردم صاحب فضل است ولی بیشترشان شکرگزار نیستند",
+    "topic": "god_is_gracious_ungrateful",
+    "image_theme": "a golden harvest field at sunrise",
+    "keywords": [
+      "grace",
+      "harvest",
+      "gold"
+    ]
+  },
+  {
+    "surah": 27,
+    "ayah": 93,
+    "theme": "بگو ستایش خدا را؛ به‌زودی نشانه‌هایش را به شما نشان می‌دهد",
+    "topic": "praise_and_see_signs",
+    "image_theme": "dawn over a calm lake with gentle birds",
+    "keywords": [
+      "praise",
+      "dawn",
+      "lake"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 56,
+    "theme": "تو هر که را دوست داری هدایت نمی‌کنی؛ خدا هر که را بخواهد هدایت می‌کند",
+    "topic": "guidance_belongs_to_god",
+    "image_theme": "a lit window in a dark village",
+    "keywords": [
+      "guidance",
+      "window",
+      "village"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 60,
+    "theme": "آنچه به شما داده شده کالای زندگی دنیا و زینت آن است و آنچه نزد خداست بهتر و پایدارتر است",
+    "topic": "worldly_gain_is_brief",
+    "image_theme": "a long beautiful road ending in a golden horizon",
+    "keywords": [
+      "worldly",
+      "road",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 73,
+    "theme": "از رحمت اوست که شب و روز قرار داد تا بیاساید و از فضلش بجویید",
+    "topic": "night_and_day_mercy",
+    "image_theme": "sunset turning to calm night",
+    "keywords": [
+      "night",
+      "day",
+      "mercy"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 83,
+    "theme": "سرای آخرت برای کسانی است که برتری‌جویی و فساد نمی‌خواهند",
+    "topic": "home_of_the_hereafter",
+    "image_theme": "a quiet green orchard at sunset",
+    "keywords": [
+      "hereafter",
+      "orchard",
+      "sunset"
+    ]
+  },
+  {
+    "surah": 28,
+    "ayah": 84,
+    "theme": "هر که نیکی بیاورد، بهتر از آن دارد",
+    "topic": "good_deeds_multiply",
+    "image_theme": "a seed growing into a thick tree",
+    "keywords": [
+      "multiply",
+      "seed",
+      "tree"
+    ]
+  },
+  {
+    "surah": 29,
+    "ayah": 6,
+    "theme": "هر که تلاش کند، برای خودش تلاش می‌کند",
+    "topic": "striving_for_oneself",
+    "image_theme": "a climber's hands on a rock face at dawn",
+    "keywords": [
+      "striving",
+      "climb",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 29,
+    "ayah": 45,
+    "theme": "نماز از زشتی و منکر بازمی‌دارد",
+    "topic": "prayer_prevents_wrongdoing",
+    "image_theme": "a quiet river crossing under a calm morning sky",
+    "keywords": [
+      "prayer",
+      "river",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 29,
+    "ayah": 57,
+    "theme": "هر کسی مرگ را می‌چشد و سپس به سوی ما بازمی‌گردید",
+    "topic": "every_soul_tastes_death",
+    "image_theme": "a lone leaf descending slowly to a still pond",
+    "keywords": [
+      "death",
+      "leaf",
+      "pond"
+    ]
+  },
+  {
+    "surah": 29,
+    "ayah": 64,
+    "theme": "زندگی دنیا جز سرگرمی و بازی نیست و زندگی واقعی در آخرت است",
+    "topic": "worldly_life_is_play",
+    "image_theme": "a child with a pinwheel on a hill",
+    "keywords": [
+      "play",
+      "pinwheel",
+      "hill"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 30,
+    "theme": "رو به دین حق کن؛ همان فطرتی که خدا مردم را بر آن آفرید",
+    "topic": "natural_disposition",
+    "image_theme": "a pure white lily by a quiet lake",
+    "keywords": [
+      "fitra",
+      "lily",
+      "lake"
+    ]
+  },
+  {
+    "surah": 30,
+    "ayah": 54,
+    "theme": "خدا شما را از ناتوانی آفرید، سپس نیرو داد، سپس ناتوانی و پیری",
+    "topic": "stages_of_life",
+    "image_theme": "a tree through the four seasons",
+    "keywords": [
+      "life",
+      "seasons",
+      "tree"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 12,
+    "theme": "به لقمان حکمت دادیم که شکر خدا کن",
+    "topic": "gratitude_is_wisdom",
+    "image_theme": "an old olive tree in the morning",
+    "keywords": [
+      "wisdom",
+      "olive tree",
+      "morning"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 13,
+    "theme": "لقمان به پسرش گفت: ای پسرم به خدا شرک نورز؛ که شرک ستمی بزرگ است",
+    "topic": "dont_associate",
+    "image_theme": "a father and a child's hands in gentle light",
+    "keywords": [
+      "advice",
+      "father",
+      "child"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 14,
+    "theme": "به انسان درباره‌ی پدر و مادرش سفارش کردیم؛ مادر او را در سختی بر سختی حمل کرد",
+    "topic": "gratitude_to_parents",
+    "image_theme": "a gentle mother's hand and child hands",
+    "keywords": [
+      "motherhood",
+      "hands",
+      "gratitude"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 16,
+    "theme": "اگر به اندازه‌ی دانه‌ی خردل عملی باشد، خدا آن را می‌آورد",
+    "topic": "even_a_mustard_seed",
+    "image_theme": "a tiny mustard seed on a rock in sun",
+    "keywords": [
+      "mustard seed",
+      "rock",
+      "sun"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 19,
+    "theme": "در راه رفتن میانه‌رو باش و صدایت را فرو آور",
+    "topic": "walk_moderate",
+    "image_theme": "a person walking gently on a quiet path",
+    "keywords": [
+      "moderation",
+      "path",
+      "gentle"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 22,
+    "theme": "هر که خود را تسلیم خدا کند و نیکوکار باشد، به دستاویز محکم چنگ زده",
+    "topic": "firm_handhold",
+    "image_theme": "a hand gripping a strong rope on a cliff",
+    "keywords": [
+      "handhold",
+      "rope",
+      "cliff"
+    ]
+  },
+  {
+    "surah": 31,
+    "ayah": 33,
+    "theme": "ای مردم از پروردگارتان بترسید و از روزی که هیچ پدری به جای فرزند نمی‌پردازد",
+    "topic": "fear_the_day",
+    "image_theme": "a long road disappearing into mist",
+    "keywords": [
+      "day",
+      "road",
+      "mist"
+    ]
+  },
+  {
+    "surah": 33,
+    "ayah": 21,
+    "theme": "برای شما در رسول خدا الگویی نیکوست",
+    "topic": "good_example",
+    "image_theme": "a footprint on a clean path of white sand",
+    "keywords": [
+      "example",
+      "footprint",
+      "path"
+    ]
+  },
+  {
+    "surah": 33,
+    "ayah": 42,
+    "theme": "صبح و شام او را تسبیح گویید",
+    "topic": "praise_morning_evening",
+    "image_theme": "sunrise and sunset sharing one sky",
+    "keywords": [
+      "praise",
+      "morning",
+      "evening"
+    ]
+  },
+  {
+    "surah": 33,
+    "ayah": 43,
+    "theme": "او شما را از تاریکی‌ها به نور می‌برد و با مؤمنان مهربان است",
+    "topic": "he_brings_you_out_of_darkness",
+    "image_theme": "a lantern leading through dark woods",
+    "keywords": [
+      "light",
+      "darkness",
+      "mercy"
+    ]
+  },
+  {
+    "surah": 33,
+    "ayah": 70,
+    "theme": "از خدا پروا کنید و سخن درست بگویید",
+    "topic": "speak_upright_words",
+    "image_theme": "a clear stream running straight",
+    "keywords": [
+      "speech",
+      "stream",
+      "straight"
+    ]
+  },
+  {
+    "surah": 34,
+    "ayah": 39,
+    "theme": "خدا روزی را برای هر که بخواهد گسترده یا تنگ می‌کند؛ و آنچه انفاق کنید جایگزینش می‌دهد",
+    "topic": "provision_expands",
+    "image_theme": "a flowing river feeding fields",
+    "keywords": [
+      "provision",
+      "river",
+      "fields"
+    ]
+  },
+  {
+    "surah": 34,
+    "ayah": 46,
+    "theme": "دو نفر دو نفر و یک‌یک برای خدا برخیزید و بیندیشید",
+    "topic": "think_in_pairs",
+    "image_theme": "two friends sitting under a tree thinking",
+    "keywords": [
+      "thinking",
+      "friends",
+      "tree"
+    ]
+  },
+  {
+    "surah": 35,
+    "ayah": 10,
+    "theme": "سخن پاک به سوی او بالا می‌رود و کار نیک آن را بالا می‌برد",
+    "topic": "good_words_rise",
+    "image_theme": "birds rising from a field into the dawn sky",
+    "keywords": [
+      "words",
+      "rise",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 35,
+    "ayah": 15,
+    "theme": "شما به خدا نیازمندید و خدا بی‌نیاز و ستوده است",
+    "topic": "you_are_in_need",
+    "image_theme": "empty open hands in rain",
+    "keywords": [
+      "need",
+      "hands",
+      "rain"
+    ]
+  },
+  {
+    "surah": 35,
+    "ayah": 28,
+    "theme": "از بندگان خدا فقط دانایان از او می‌ترسند",
+    "topic": "only_the_knowers_fear",
+    "image_theme": "a scholar's desk at night with a lamp",
+    "keywords": [
+      "knowledge",
+      "lamp",
+      "desk"
+    ]
+  },
+  {
+    "surah": 35,
+    "ayah": 29,
+    "theme": "کسانی که قرآن می‌خوانند و نماز می‌گزارند و انفاق می‌کنند، به تجارتی بی‌زیان امید دارند",
+    "topic": "trade_that_never_fails",
+    "image_theme": "a merchant's lantern on a quiet street",
+    "keywords": [
+      "trade",
+      "lantern",
+      "street"
+    ]
+  },
+  {
+    "surah": 36,
+    "ayah": 12,
+    "theme": "ما مردگان را زنده می‌کنیم و آنچه پیش فرستادند و آثارشان را می‌نویسیم",
+    "topic": "we_write_what_they_send_ahead",
+    "image_theme": "footprints along a long beach at dawn",
+    "keywords": [
+      "legacy",
+      "footprints",
+      "beach"
+    ]
+  },
+  {
+    "surah": 36,
+    "ayah": 83,
+    "theme": "پاک است آن‌که فرمانروایی هر چیز در دست اوست و به سوی او بازگردانده می‌شوید",
+    "topic": "glory_to_him_with_power",
+    "image_theme": "vast cosmos with light",
+    "keywords": [
+      "glory",
+      "cosmos",
+      "light"
+    ]
+  },
+  {
+    "surah": 37,
+    "ayah": 180,
+    "theme": "پاک است پروردگار تو، پروردگار عزت، از آنچه وصف می‌کنند",
+    "topic": "glory_to_lord_of_honor",
+    "image_theme": "a mountain peak above clouds at dawn",
+    "keywords": [
+      "glory",
+      "peak",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 37,
+    "ayah": 182,
+    "theme": "ستایش خدایی را که پروردگار جهانیان است",
+    "topic": "praise_to_god",
+    "image_theme": "a wide sunrise over the sea",
+    "keywords": [
+      "praise",
+      "sunrise",
+      "sea"
+    ]
+  },
+  {
+    "surah": 38,
+    "ayah": 26,
+    "theme": "میان مردم به حق داوری کن و از هوای نفس پیروی مکن",
+    "topic": "judge_justly",
+    "image_theme": "a scale beneath a pure white sky",
+    "keywords": [
+      "justice",
+      "scale",
+      "sky"
+    ]
+  },
+  {
+    "surah": 38,
+    "ayah": 29,
+    "theme": "کتابی مبارک که برای اندیشیدن در آیاتش نازل شد",
+    "topic": "blessed_book",
+    "image_theme": "an open book under a bright window",
+    "keywords": [
+      "book",
+      "reflection",
+      "window"
+    ]
+  },
+  {
+    "surah": 39,
+    "ayah": 30,
+    "theme": "تو می‌میری و آنان هم می‌میرند",
+    "topic": "you_will_die",
+    "image_theme": "an autumn leaf falling in a quiet clearing",
+    "keywords": [
+      "death",
+      "leaf",
+      "clearing"
+    ]
+  },
+  {
+    "surah": 39,
+    "ayah": 42,
+    "theme": "خدا جان‌ها را هنگام مرگ‌شان و در خواب می‌گیرد",
+    "topic": "god_takes_souls",
+    "image_theme": "a peaceful sleeper under starlight",
+    "keywords": [
+      "soul",
+      "sleep",
+      "stars"
+    ]
+  },
+  {
+    "surah": 39,
+    "ayah": 54,
+    "theme": "به سوی پروردگارتان بازگردید و تسلیم او شوید پیش از آمدن عذاب",
+    "topic": "return_to_your_lord",
+    "image_theme": "a lighthouse guiding a boat home",
+    "keywords": [
+      "return",
+      "lighthouse",
+      "boat"
+    ]
+  },
+  {
+    "surah": 39,
+    "ayah": 62,
+    "theme": "خدا آفریننده‌ی هر چیز و بر هر چیز نگهبان است",
+    "topic": "creator_of_everything",
+    "image_theme": "a vast starry sky",
+    "keywords": [
+      "creator",
+      "sky",
+      "stars"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 19,
+    "theme": "او خیانت چشم‌ها و آنچه سینه‌ها پنهان می‌دارند را می‌داند",
+    "topic": "knows_secret_glances",
+    "image_theme": "moonlit calm water",
+    "keywords": [
+      "secrets",
+      "moon",
+      "water"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 39,
+    "theme": "زندگی دنیا کالایی بیش نیست و آخرت سرای ماندگار است",
+    "topic": "this_world_is_enjoyment",
+    "image_theme": "a train station bench in sunset-like calm",
+    "keywords": [
+      "temporary",
+      "bench",
+      "sunset"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 40,
+    "theme": "هر که کار نیک انجام دهد، چه مرد و چه زن، روزی بی‌حساب می‌گیرد",
+    "topic": "reward_for_good",
+    "image_theme": "an abundant garden",
+    "keywords": [
+      "reward",
+      "garden",
+      "abundance"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 55,
+    "theme": "صبر کن، وعده‌ی خدا حق است و برای گناهت آمرزش بخواه",
+    "topic": "patience_and_forgiveness",
+    "image_theme": "a calm sea at dawn",
+    "keywords": [
+      "patience",
+      "forgiveness",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 61,
+    "theme": "خدا شب را برای آرامش و روز را روشن قرار داد",
+    "topic": "night_for_rest",
+    "image_theme": "a gentle night and bright day divided sky",
+    "keywords": [
+      "night",
+      "day",
+      "rest"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 64,
+    "theme": "زمین را قرارگاه و آسمان را سقفی ساخت و شما را نیکو صورت‌بخشید",
+    "topic": "earth_a_resting_place",
+    "image_theme": "a mountain range and clear sky",
+    "keywords": [
+      "earth",
+      "sky",
+      "mountains"
+    ]
+  },
+  {
+    "surah": 40,
+    "ayah": 65,
+    "theme": "او زنده است؛ او را با اخلاص بخوانید و ستایش از آنِ خداست",
+    "topic": "living_one",
+    "image_theme": "dawn light over a mountain lake",
+    "keywords": [
+      "living",
+      "dawn",
+      "lake"
+    ]
+  },
+  {
+    "surah": 41,
+    "ayah": 30,
+    "theme": "کسانی که گفتند پروردگار ما خداست و استقامت کردند، فرشتگان بر آنان نازل می‌شوند که نترسید و غمگین نباشید",
+    "topic": "steadfast_and_angels_comfort",
+    "image_theme": "a calm dawn over a sleeping village",
+    "keywords": [
+      "steadfast",
+      "calm",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 41,
+    "ayah": 33,
+    "theme": "چه کسی گفتارش نیکوتر است از کسی که به سوی خدا دعوت کند و کار نیک کند؟",
+    "topic": "best_speech",
+    "image_theme": "a clear spring and a path",
+    "keywords": [
+      "speech",
+      "spring",
+      "path"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 20,
+    "theme": "هر که کشت آخرت بخواهد، کشتش را فزونی می‌دهیم",
+    "topic": "harvest_of_hereafter",
+    "image_theme": "a young green field at dawn",
+    "keywords": [
+      "harvest",
+      "field",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 28,
+    "theme": "او باران را پس از ناامیدی نازل می‌کند و رحمتش را می‌گستراند",
+    "topic": "rain_after_despair",
+    "image_theme": "first drops of rain on dry land",
+    "keywords": [
+      "rain",
+      "hope",
+      "land"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 30,
+    "theme": "هر مصیبتی که می‌رسد به سبب کارهای شماست و او از بسیاری می‌گذرد",
+    "topic": "what_hands_earned",
+    "image_theme": "an open palm releasing dry leaves",
+    "keywords": [
+      "accountability",
+      "forgiveness",
+      "leaves"
+    ]
+  },
+  {
+    "surah": 42,
+    "ayah": 36,
+    "theme": "آنچه به شما داده شده کالای زندگی است و آنچه نزد خداست بهتر و پایدارتر است",
+    "topic": "what_is_with_god_better",
+    "image_theme": "a long road toward a golden horizon",
+    "keywords": [
+      "better",
+      "road",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 43,
+    "ayah": 84,
+    "theme": "او در آسمان معبود است و در زمین هم معبود",
+    "topic": "god_in_heaven_and_earth",
+    "image_theme": "sky meeting earth at the horizon",
+    "keywords": [
+      "heaven",
+      "earth",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 13,
+    "theme": "آنچه در آسمان‌ها و زمین است برای شما رام کرد؛ در این برای اهل اندیشه نشانه‌هاست",
+    "topic": "subjected_to_you",
+    "image_theme": "a calm valley and bright sky",
+    "keywords": [
+      "signs",
+      "valley",
+      "sky"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 15,
+    "theme": "هر که کار نیک کند به سود خود و هر که بد کند به زیان خود",
+    "topic": "good_for_self",
+    "image_theme": "a seed and a thorn growing side by side",
+    "keywords": [
+      "deeds",
+      "seed",
+      "thorn"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 36,
+    "theme": "ستایش از آنِ خداست، پروردگار آسمان‌ها و زمین و جهانیان",
+    "topic": "all_praise_is_god",
+    "image_theme": "sunrise over earth",
+    "keywords": [
+      "praise",
+      "sunrise",
+      "earth"
+    ]
+  },
+  {
+    "surah": 45,
+    "ayah": 37,
+    "theme": "بزرگی در آسمان‌ها و زمین از آنِ اوست",
+    "topic": "greatness_is_his",
+    "image_theme": "mountains with clouds",
+    "keywords": [
+      "greatness",
+      "mountains",
+      "clouds"
+    ]
+  },
+  {
+    "surah": 46,
+    "ayah": 13,
+    "theme": "کسانی که گفتند پروردگار ما خداست و استقامت کردند، نه ترسی دارند نه اندوه",
+    "topic": "steadfast_no_fear",
+    "image_theme": "a steady lighthouse in calm light",
+    "keywords": [
+      "steadfast",
+      "lighthouse",
+      "calm"
+    ]
+  },
+  {
+    "surah": 47,
+    "ayah": 7,
+    "theme": "اگر خدا را یاری کنید، شما را یاری می‌کند و گام‌هایتان را استوار می‌دارد",
+    "topic": "help_god_help_you",
+    "image_theme": "a hand on a steady rock",
+    "keywords": [
+      "support",
+      "rock",
+      "hand"
+    ]
+  },
+  {
+    "surah": 47,
+    "ayah": 17,
+    "theme": "کسانی که هدایت یافتند، خدا هدایت‌شان را افزون کرد",
+    "topic": "guidance_increases",
+    "image_theme": "an ascending staircase of light",
+    "keywords": [
+      "guidance",
+      "stairs",
+      "light"
+    ]
+  },
+  {
+    "surah": 47,
+    "ayah": 19,
+    "theme": "بدان که معبودی جز خدا نیست و برای گناه خود آمرزش بخواه",
+    "topic": "know_there_is_no_god",
+    "image_theme": "a clear dawn sky",
+    "keywords": [
+      "tawhid",
+      "forgiveness",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 47,
+    "ayah": 24,
+    "theme": "آیا در قرآن نمی‌اندیشند یا بر دل‌ها قفل‌هایی است؟",
+    "topic": "do_they_not_ponder",
+    "image_theme": "an unlocked door in a garden wall",
+    "keywords": [
+      "ponder",
+      "door",
+      "garden"
+    ]
+  },
+  {
+    "surah": 47,
+    "ayah": 33,
+    "theme": "اعمال خود را باطل نکنید",
+    "topic": "dont_nullify_deeds",
+    "image_theme": "a hand carrying a lantern carefully",
+    "keywords": [
+      "deeds",
+      "lantern",
+      "care"
+    ]
+  },
+  {
+    "surah": 48,
+    "ayah": 4,
+    "theme": "او است که آرامش را در دل‌های مؤمنان فرو فرستاد تا ایمانشان افزون شود",
+    "topic": "sakinah_in_hearts",
+    "image_theme": "a dove landing calmly on a hand",
+    "keywords": [
+      "tranquility",
+      "dove",
+      "hand"
+    ]
+  },
+  {
+    "surah": 50,
+    "ayah": 18,
+    "theme": "هیچ سخنی بر زبان نمی‌آورد مگر آن‌که نزد او نگهبانی آماده است",
+    "topic": "no_word_unrecorded",
+    "image_theme": "a quiet scroll of light",
+    "keywords": [
+      "word",
+      "record",
+      "light"
+    ]
+  },
+  {
+    "surah": 52,
+    "ayah": 48,
+    "theme": "به حکم پروردگارت صبر کن که در پناه نگاه مایی",
+    "topic": "patient_under_gaze",
+    "image_theme": "a night sky of watching stars",
+    "keywords": [
+      "patience",
+      "stars",
+      "night"
+    ]
+  },
+  {
+    "surah": 52,
+    "ayah": 49,
+    "theme": "بخشی از شب و هنگام غروب ستارگان او را تسبیح گو",
+    "topic": "glorify_night_and_stars",
+    "image_theme": "stars fading at dawn",
+    "keywords": [
+      "glorify",
+      "stars",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 53,
+    "ayah": 39,
+    "theme": "برای انسان جز آنچه کوشیده نیست",
+    "topic": "man_has_only_what_he_strives",
+    "image_theme": "a climber's hand near the summit",
+    "keywords": [
+      "striving",
+      "effort",
+      "summit"
+    ]
+  },
+  {
+    "surah": 54,
+    "ayah": 17,
+    "theme": "قرآن را برای یادآوری آسان کردیم؛ آیا پندگیرنده‌ای هست؟",
+    "topic": "quran_made_easy",
+    "image_theme": "an open book with a soft glow",
+    "keywords": [
+      "ease",
+      "book",
+      "glow"
+    ]
+  },
+  {
+    "surah": 54,
+    "ayah": 49,
+    "theme": "هر چیزی را به اندازه آفریدیم",
+    "topic": "everything_by_measure",
+    "image_theme": "perfectly balanced leaves in a circle",
+    "keywords": [
+      "measure",
+      "balance",
+      "nature"
+    ]
+  },
+  {
+    "surah": 55,
+    "ayah": 9,
+    "theme": "وزن را به عدالت برپا دارید و در ترازو کم نگذارید",
+    "topic": "keep_the_weight_in_justice",
+    "image_theme": "a balanced scale of grain",
+    "keywords": [
+      "justice",
+      "scale",
+      "grain"
+    ]
+  },
+  {
+    "surah": 55,
+    "ayah": 46,
+    "theme": "برای کسی که از ایستادن در برابر پروردگارش بترسد دو باغ است",
+    "topic": "for_those_who_fear_standing",
+    "image_theme": "two gardens at sunrise",
+    "keywords": [
+      "gardens",
+      "fear",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 55,
+    "ayah": 78,
+    "theme": "پربرکت است نام پروردگار صاحب جلال و بزرگواری",
+    "topic": "blessed_is_the_name",
+    "image_theme": "golden sunrise on a still lake",
+    "keywords": [
+      "name",
+      "lake",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 56,
+    "ayah": 96,
+    "theme": "پس به نام پروردگار بزرگت تسبیح گو",
+    "topic": "glorify_the_great_name",
+    "image_theme": "vast sea and sky",
+    "keywords": [
+      "glorify",
+      "sea",
+      "sky"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 1,
+    "theme": "هر چه در آسمان‌ها و زمین است خدا را تسبیح می‌گوید",
+    "topic": "everything_glorifies",
+    "image_theme": "a dawn chorus over a valley",
+    "keywords": [
+      "praise",
+      "dawn",
+      "valley"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 7,
+    "theme": "از آنچه شما را جانشین‌اش کرد انفاق کنید",
+    "topic": "spend_from_what_entrusted",
+    "image_theme": "a hand gently giving seeds",
+    "keywords": [
+      "giving",
+      "seeds",
+      "hand"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 16,
+    "theme": "آیا وقت آن نرسیده که دل‌های مؤمنان برای یاد خدا خاشع شود؟",
+    "topic": "time_to_humble_hearts",
+    "image_theme": "a calm heart-like pond at dawn",
+    "keywords": [
+      "humility",
+      "pond",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 57,
+    "ayah": 28,
+    "theme": "خدا برای شما نوری قرار می‌دهد که با آن راه بروید",
+    "topic": "light_to_walk_with",
+    "image_theme": "a person walking with a glowing lantern",
+    "keywords": [
+      "light",
+      "lantern",
+      "walk"
+    ]
+  },
+  {
+    "surah": 58,
+    "ayah": 11,
+    "theme": "خدا درجات مؤمنان و صاحبان دانش را بالا می‌برد",
+    "topic": "raise_those_with_knowledge",
+    "image_theme": "a stair of books in sunrise",
+    "keywords": [
+      "knowledge",
+      "rise",
+      "books"
+    ]
+  },
+  {
+    "surah": 59,
+    "ayah": 21,
+    "theme": "اگر قرآن را بر کوه نازل می‌کردیم، می‌دیدی از خشیت خدا خاشع و متلاشی می‌شد",
+    "topic": "quran_mountain_humbled",
+    "image_theme": "a mountain cracked by light at dawn",
+    "keywords": [
+      "quran",
+      "mountain",
+      "awe"
+    ]
+  },
+  {
+    "surah": 60,
+    "ayah": 8,
+    "theme": "با کسانی که با شما نجنگیده‌اند نیکی و عدالت کنید",
+    "topic": "deal_justly_with_peaceful",
+    "image_theme": "an olive branch on a table",
+    "keywords": [
+      "justice",
+      "olive branch",
+      "peace"
+    ]
+  },
+  {
+    "surah": 61,
+    "ayah": 2,
+    "theme": "ای مؤمنان چرا چیزی را می‌گویید که انجام نمی‌دهید؟",
+    "topic": "say_and_do",
+    "image_theme": "a mirror reflecting an empty path",
+    "keywords": [
+      "integrity",
+      "mirror",
+      "path"
+    ]
+  },
+  {
+    "surah": 62,
+    "ayah": 10,
+    "theme": "پس از نماز در زمین پراکنده شوید و از فضل خدا بجویید و خدا را بسیار یاد کنید",
+    "topic": "after_prayer_seek_provision",
+    "image_theme": "morning market street waking up",
+    "keywords": [
+      "livelihood",
+      "market",
+      "morning"
+    ]
+  },
+  {
+    "surah": 63,
+    "ayah": 10,
+    "theme": "پیش از آن‌که مرگ فرا رسد انفاق کنید",
+    "topic": "spend_before_death",
+    "image_theme": "a last hourglass grain falling",
+    "keywords": [
+      "time",
+      "hourglass",
+      "giving"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 11,
+    "theme": "هیچ مصیبتی جز به اذن خدا نمی‌رسد؛ هر که ایمان آورد، خدا دلش را هدایت می‌کند",
+    "topic": "nothing_befalls_without_leave",
+    "image_theme": "a steady heart-like lantern in storm",
+    "keywords": [
+      "trial",
+      "lantern",
+      "storm"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 15,
+    "theme": "اموال و فرزندان شما آزمون‌اند و پاداش بزرگ نزد خداست",
+    "topic": "wealth_and_children_trial",
+    "image_theme": "a family's hands around a candle",
+    "keywords": [
+      "test",
+      "family",
+      "candle"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 16,
+    "theme": "به اندازه‌ی توانتان از خدا پروا کنید",
+    "topic": "fear_god_as_you_can",
+    "image_theme": "a simple balanced path",
+    "keywords": [
+      "capacity",
+      "path",
+      "balance"
+    ]
+  },
+  {
+    "surah": 64,
+    "ayah": 17,
+    "theme": "اگر به خدا وام نیکو بدهید برایتان چند برابر می‌کند",
+    "topic": "loan_multiplied",
+    "image_theme": "seeds multiplying into field",
+    "keywords": [
+      "multiply",
+      "seeds",
+      "field"
+    ]
+  },
+  {
+    "surah": 65,
+    "ayah": 7,
+    "theme": "خدا بعد از دشواری آسانی قرار می‌دهد",
+    "topic": "ease_after_hardship",
+    "image_theme": "dawn after a hard night",
+    "keywords": [
+      "ease",
+      "dawn",
+      "hardship"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 12,
+    "theme": "کسانی که در نهان از پروردگارشان می‌ترسند، آمرزش و پاداش بزرگ دارند",
+    "topic": "those_who_fear_unseen",
+    "image_theme": "a quiet candle in a hidden room",
+    "keywords": [
+      "unseen",
+      "candle",
+      "reward"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 14,
+    "theme": "آیا آفریننده نمی‌داند؟ او لطیف و آگاه است",
+    "topic": "doesnt_the_creator_know",
+    "image_theme": "moon on calm sea",
+    "keywords": [
+      "knowledge",
+      "moon",
+      "sea"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 22,
+    "theme": "آیا آن‌که سرنگون راه می‌رود هدایت‌یافته‌تر است یا آن‌که راست بر راه مستقیم؟",
+    "topic": "walking_straight",
+    "image_theme": "a straight road in sunrise",
+    "keywords": [
+      "straight",
+      "road",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 67,
+    "ayah": 23,
+    "theme": "او شما را آفرید و گوش و چشم و دل داد؛ اندکی شکر می‌کنید",
+    "topic": "senses_few_thank",
+    "image_theme": "a morning dew drop in sun",
+    "keywords": [
+      "gratitude",
+      "dew",
+      "morning"
+    ]
+  },
+  {
+    "surah": 68,
+    "ayah": 4,
+    "theme": "تو دارای اخلاقی بزرگ هستی",
+    "topic": "great_character",
+    "image_theme": "a bright rose in a quiet garden",
+    "keywords": [
+      "character",
+      "rose",
+      "garden"
+    ]
+  },
+  {
+    "surah": 70,
+    "ayah": 5,
+    "theme": "پس صبر زیبا پیشه کن",
+    "topic": "beautiful_patience",
+    "image_theme": "a calm hilltop at sunrise",
+    "keywords": [
+      "patience",
+      "hill",
+      "sunrise"
+    ]
+  },
+  {
+    "surah": 70,
+    "ayah": 19,
+    "theme": "انسان کم‌طاقت آفریده شده است",
+    "topic": "man_is_anxious",
+    "image_theme": "a wind-blown leaf finally still",
+    "keywords": [
+      "anxiety",
+      "leaf",
+      "stillness"
+    ]
+  },
+  {
+    "surah": 71,
+    "ayah": 13,
+    "theme": "چرا برای خدا وقاری و شکوهی امید نمی‌دارید؟",
+    "topic": "why_not_hope_dignity_for_god",
+    "image_theme": "a calm mountain under starry sky",
+    "keywords": [
+      "reverence",
+      "mountain",
+      "stars"
+    ]
+  },
+  {
+    "surah": 73,
+    "ayah": 8,
+    "theme": "نام پروردگارت را یاد کن و با تمام وجود به او رو آور",
+    "topic": "remember_and_devote",
+    "image_theme": "a calm lake at dawn",
+    "keywords": [
+      "remember",
+      "devote",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 74,
+    "ayah": 7,
+    "theme": "برای پروردگارت صبر کن",
+    "topic": "be_patient_for_lord",
+    "image_theme": "a stone enduring a river",
+    "keywords": [
+      "patience",
+      "stone",
+      "river"
+    ]
+  },
+  {
+    "surah": 74,
+    "ayah": 38,
+    "theme": "هر کسی در گرو کارهایی است که کرده است",
+    "topic": "every_soul_pledged",
+    "image_theme": "a cloaked lantern traveling a road",
+    "keywords": [
+      "accountability",
+      "lantern",
+      "road"
+    ]
+  },
+  {
+    "surah": 75,
+    "ayah": 36,
+    "theme": "آیا انسان گمان می‌کند بی‌هدف رها می‌شود؟",
+    "topic": "not_left_aimless",
+    "image_theme": "a trailhead sign pointing to a mountain",
+    "keywords": [
+      "purpose",
+      "sign",
+      "mountain"
+    ]
+  },
+  {
+    "surah": 76,
+    "ayah": 2,
+    "theme": "انسان را از نطفه‌ای آمیخته آفریدیم تا بیازماییم و شنوا و بینا کردیم",
+    "topic": "man_created_to_test",
+    "image_theme": "a sprouting seed on soil",
+    "keywords": [
+      "creation",
+      "seed",
+      "test"
+    ]
+  },
+  {
+    "surah": 76,
+    "ayah": 25,
+    "theme": "بامداد و شامگاه نام پروردگارت را یاد کن",
+    "topic": "remember_morning_evening",
+    "image_theme": "sunrise and sunset glimpsed from a hill",
+    "keywords": [
+      "remember",
+      "morning",
+      "evening"
+    ]
+  },
+  {
+    "surah": 76,
+    "ayah": 30,
+    "theme": "شما جز به خواست خدا چیزی نمی‌خواهید",
+    "topic": "will_is_gods",
+    "image_theme": "a lantern lit within an hourglass-like window",
+    "keywords": [
+      "will",
+      "lantern",
+      "window"
+    ]
+  },
+  {
+    "surah": 81,
+    "ayah": 29,
+    "theme": "شما جز به خواست پروردگار جهانیان نمی‌خواهید",
+    "topic": "will_of_lord_of_worlds",
+    "image_theme": "a vast universe with soft light",
+    "keywords": [
+      "will",
+      "universe",
+      "light"
+    ]
+  },
+  {
+    "surah": 82,
+    "ayah": 6,
+    "theme": "ای انسان چه چیز تو را به پروردگار کریمت مغرور کرد؟",
+    "topic": "what_deceived_you",
+    "image_theme": "a mirror in a vast empty room",
+    "keywords": [
+      "pride",
+      "mirror",
+      "room"
+    ]
+  },
+  {
+    "surah": 82,
+    "ayah": 13,
+    "theme": "نیکان در نعمت‌اند",
+    "topic": "righteous_in_bliss",
+    "image_theme": "a lush paradise-like garden with stream",
+    "keywords": [
+      "bliss",
+      "garden",
+      "stream"
+    ]
+  },
+  {
+    "surah": 82,
+    "ayah": 19,
+    "theme": "روزی که هیچ‌کس برای دیگری کاری نمی‌تواند بکند و فرمان آن روز از آنِ خداست",
+    "topic": "the_day_no_soul_owns",
+    "image_theme": "a vast empty plain at dawn",
+    "keywords": [
+      "day",
+      "plain",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 84,
+    "ayah": 6,
+    "theme": "ای انسان تو با رنج به سوی پروردگارت می‌روی و او را دیدار می‌کنی",
+    "topic": "toiling_towards_lord",
+    "image_theme": "a long road toward a glowing horizon",
+    "keywords": [
+      "journey",
+      "road",
+      "horizon"
+    ]
+  },
+  {
+    "surah": 87,
+    "ayah": 9,
+    "theme": "یادآوری کن اگر یادآوری سود دارد",
+    "topic": "remind_if_it_benefits",
+    "image_theme": "a quiet bell-less dawn in a village",
+    "keywords": [
+      "reminder",
+      "dawn",
+      "village"
+    ]
+  },
+  {
+    "surah": 87,
+    "ayah": 14,
+    "theme": "هر که خود را پاک کرد رستگار شد",
+    "topic": "successful_is_the_purified",
+    "image_theme": "a clear stream flowing over stones",
+    "keywords": [
+      "purify",
+      "stream",
+      "success"
+    ]
+  },
+  {
+    "surah": 88,
+    "ayah": 21,
+    "theme": "پس یادآوری کن که تو فقط یادآورنده‌ای",
+    "topic": "so_remind",
+    "image_theme": "a light turned on in a window",
+    "keywords": [
+      "reminder",
+      "window",
+      "light"
+    ]
+  },
+  {
+    "surah": 90,
+    "ayah": 4,
+    "theme": "انسان را در رنج آفریدیم",
+    "topic": "man_in_toil",
+    "image_theme": "a climber on a steep slope",
+    "keywords": [
+      "toil",
+      "climb",
+      "slope"
+    ]
+  },
+  {
+    "surah": 93,
+    "ayah": 3,
+    "theme": "پروردگارت تو را رها نکرده و دشمن نداشته است",
+    "topic": "god_has_not_abandoned",
+    "image_theme": "a lone lamp in the dark village",
+    "keywords": [
+      "comfort",
+      "lamp",
+      "village"
+    ]
+  },
+  {
+    "surah": 93,
+    "ayah": 4,
+    "theme": "آخرت برای تو از دنیا بهتر است",
+    "topic": "hereafter_better_than_first",
+    "image_theme": "a golden horizon after dusk",
+    "keywords": [
+      "hereafter",
+      "horizon",
+      "golden"
+    ]
+  },
+  {
+    "surah": 93,
+    "ayah": 5,
+    "theme": "به‌زودی پروردگارت چنان عطا کند که خشنود شوی",
+    "topic": "you_will_be_pleased",
+    "image_theme": "a bright sunrise over the sea",
+    "keywords": [
+      "pleasure",
+      "sunrise",
+      "sea"
+    ]
+  },
+  {
+    "surah": 93,
+    "ayah": 9,
+    "theme": "پس یتیم را میازار",
+    "topic": "dont_oppress_orphan",
+    "image_theme": "a child's hand held by a grown hand",
+    "keywords": [
+      "kindness",
+      "orphan",
+      "hand"
+    ]
+  },
+  {
+    "surah": 93,
+    "ayah": 11,
+    "theme": "و نعمت پروردگارت را بازگو کن",
+    "topic": "speak_of_blessings",
+    "image_theme": "a flowering tree in morning",
+    "keywords": [
+      "blessings",
+      "tree",
+      "morning"
+    ]
+  },
+  {
+    "surah": 94,
+    "ayah": 5,
+    "theme": "همانا با سختی آسانی است",
+    "topic": "with_hardship_ease",
+    "image_theme": "a flower opening after rain",
+    "keywords": [
+      "ease",
+      "flower",
+      "rain"
+    ]
+  },
+  {
+    "surah": 94,
+    "ayah": 8,
+    "theme": "و به سوی پروردگارت میل کن",
+    "topic": "turn_to_your_lord",
+    "image_theme": "a sunflower turning to the sun",
+    "keywords": [
+      "desire",
+      "sunflower",
+      "sun"
+    ]
+  },
+  {
+    "surah": 95,
+    "ayah": 4,
+    "theme": "انسان را در بهترین ساختار آفریدیم",
+    "topic": "best_form",
+    "image_theme": "a human silhouette radiating soft light",
+    "keywords": [
+      "dignity",
+      "silhouette",
+      "light"
+    ]
+  },
+  {
+    "surah": 95,
+    "ayah": 8,
+    "theme": "آیا خدا بهترین داوران نیست؟",
+    "topic": "is_god_not_best_judge",
+    "image_theme": "a balanced scale in light",
+    "keywords": [
+      "judge",
+      "scale",
+      "light"
+    ]
+  },
+  {
+    "surah": 96,
+    "ayah": 1,
+    "theme": "بخوان به نام پروردگارت که آفرید",
+    "topic": "read_in_the_name",
+    "image_theme": "an open book in dawn light",
+    "keywords": [
+      "read",
+      "book",
+      "dawn"
+    ]
+  },
+  {
+    "surah": 96,
+    "ayah": 5,
+    "theme": "به انسان آنچه را نمی‌دانست آموخت",
+    "topic": "taught_what_unknown",
+    "image_theme": "a lit candle illuminating a page",
+    "keywords": [
+      "learn",
+      "candle",
+      "page"
+    ]
+  },
+  {
+    "surah": 97,
+    "ayah": 3,
+    "theme": "شب قدر از هزار ماه بهتر است",
+    "topic": "night_better_than_thousand",
+    "image_theme": "a night of stars spiraling above a mountain",
+    "keywords": [
+      "night",
+      "stars",
+      "mountain"
+    ]
+  },
+  {
+    "surah": 98,
+    "ayah": 7,
+    "theme": "آنان که ایمان آورده و کار نیک کرده‌اند بهترین آفریدگان‌اند",
+    "topic": "best_of_creation",
+    "image_theme": "a garden of wildflowers",
+    "keywords": [
+      "best",
+      "garden",
+      "flowers"
+    ]
+  },
+  {
+    "surah": 99,
+    "ayah": 8,
+    "theme": "هر که ذره‌ای بدی کند آن را می‌بیند",
+    "topic": "atom_of_evil_seen",
+    "image_theme": "a tiny grain of dust on a bright scale",
+    "keywords": [
+      "deed",
+      "grain",
+      "scale"
+    ]
+  },
+  {
+    "surah": 104,
+    "ayah": 1,
+    "theme": "وای بر هر عیب‌جوی غیبت‌کننده",
+    "topic": "woe_to_slanderer",
+    "image_theme": "a closed door in a quiet corridor",
+    "keywords": [
+      "slander",
+      "door",
+      "quiet"
+    ]
+  },
+  {
+    "surah": 108,
+    "ayah": 1,
+    "theme": "ما به تو کوثر عطا کردیم",
+    "topic": "we_gave_you_kawthar",
+    "image_theme": "an abundant river flowing in green hills",
+    "keywords": [
+      "abundance",
+      "river",
+      "hills"
+    ]
+  },
+  {
+    "surah": 108,
+    "ayah": 2,
+    "theme": "برای پروردگارت نماز بخوان و قربانی کن",
+    "topic": "pray_and_sacrifice",
+    "image_theme": "a quiet morning prayer at the field's edge",
+    "keywords": [
+      "prayer",
+      "sacrifice",
+      "morning"
+    ]
+  },
+  {
+    "surah": 109,
+    "ayah": 6,
+    "theme": "دین شما برای شما و دین من برای من",
+    "topic": "to_you_your_religion",
+    "image_theme": "two parallel paths in a field",
+    "keywords": [
+      "respect",
+      "paths",
+      "field"
     ]
   }
 ]

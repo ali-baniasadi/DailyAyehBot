@@ -126,6 +126,10 @@ class NoUnusedVersesError(Exception):
 def select_next_verse(verses: list, state: dict) -> dict:
     used = set(state.get("used_verses", []))
     unused = [v for v in verses if verse_key(v) not in used]
+    # آیه‌ای که کپشنش از حد تلگرام بلندتر باشد باید ترجمه‌اش کوتاه شود؛ برای دقت
+    # ترجمه، تا وقتی آیه‌ی کامل‌ِ قابل‌ارسال هست، از آن‌ها انتخاب می‌کنیم.
+    fits = [v for v in unused if len(build_caption(v)) <= TELEGRAM_CAPTION_LIMIT]
+    unused = fits or unused
     if not unused:
         raise NoUnusedVersesError(
             f"همه‌ی {len(verses)} آیه‌ی موجود قبلاً منتشر شده‌اند. "
